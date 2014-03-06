@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-06T00:52:56Z</date>
+	<date>2014-03-06T00:52:29Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -2648,7 +2648,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>547px</string>
+							<string>546px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2708,7 +2708,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Circuit 5 - Measuring&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;a Photoresistor&lt;/span&gt;</string>
+							<string>Circuit 11 - Measuring a&lt;div&gt;Flex Sensor&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2901,7 +2901,7 @@
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>4</string>
+				<string>3</string>
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
@@ -7119,7 +7119,7 @@
 
 MicroViewWidget *widget[4];
 
-int sensorPin = A0;    // select the input pin for the photoresistor
+int sensorPin = A0;    // select the input pin for the flex sensor
 int sensorValue = 0;  // variable to store the value coming from the sensor
 
 void setup() {
@@ -7314,9 +7314,7 @@ void loop() {
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>141</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
