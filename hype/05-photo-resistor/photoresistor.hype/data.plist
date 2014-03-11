@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>134</string>
+	<string>64</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-06T00:52:56Z</date>
+	<date>2014-03-11T03:42:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -100,7 +100,7 @@
 		<key>splitViewIsVertical</key>
 		<true/>
 		<key>splitWidth</key>
-		<real>855</real>
+		<real>726.5</real>
 	</dict>
 	<key>minimumSupportedBrowserVersions</key>
 	<dict>
@@ -124,7 +124,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>159</integer>
+	<integer>175</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -355,6 +355,7 @@
 				<key>resources</key>
 				<array>
 					<string>microview-breadboard.png</string>
+					<string>microview-breadboard.svg</string>
 				</array>
 			</dict>
 			<dict>
@@ -475,6 +476,42 @@
 				<key>resources</key>
 				<array>
 					<string>code.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>LDR</string>
+				<key>oid</key>
+				<string>162</string>
+				<key>resources</key>
+				<array>
+					<string>LDR.svg</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>LDR-1</string>
+				<key>oid</key>
+				<string>164</string>
+				<key>resources</key>
+				<array>
+					<string>LDR-2.svg</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>hope-01</string>
+				<key>oid</key>
+				<string>174</string>
+				<key>resources</key>
+				<array>
+					<string>hope-01.svg</string>
 				</array>
 			</dict>
 		</array>
@@ -2026,6 +2063,234 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-10T23:39:11Z</date>
+				<key>fileSize</key>
+				<integer>11884</integer>
+				<key>md5</key>
+				<string>B4A0879A984877A642D0B248D8D14A0F</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/LDR.svg</string>
+				<key>resourceName</key>
+				<string>LDR.svg</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8ADAAAAAAQQMAAAADjJ7YwYIdTlhAYTYr2iv/Qu
+				1SQZOhnLYTis2dI7/RMgyAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAABwAA
+				AAEBAABMRFIuc3ZnACwAAAABBgAABAAAABQAAAAkAAAA
+				NAAAAEQAAABUAAAAZAAAAHgAAACUAAAApAAAALQAAAAI
+				AAAABAMAADsGAgAAAAAACAAAAAQDAAD0ygUAAAAAAAgA
+				AAAEAwAAwc2zAAAAAAAIAAAABAMAAAnOswAAAAAACAAA
+				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
+				BAMAALi64QEAAAAACAAAAAQDAACf7OEBAAAAAAgAAAAE
+				AwAATu3hAQAAAAAIAAAABAMAAOy47QEAAAAACAAAAAQD
+				AAD0tO0BAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
+				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
+				AAQAAEG4zoGfAAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
+				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
+				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
+				QjgwNzY0RUUtN0E3Ny0zNUQzLThERkItQ0JERUM0MDVD
+				OTc5GAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAkA
+				KMAAAAD+////AQAAAAAAAAAPAAAABBAAAMQAAAAAAAAA
+				BRAAAKgBAAAAAAAAEBAAAOwBAAAAAAAAQBAAANwBAAAA
+				AAAAAiAAAKgCAAAAAAAAECAAACgCAAAAAAAAESAAAFwC
+				AAAAAAAAEiAAADwCAAAAAAAAEyAAAEwCAAAAAAAAICAA
+				AIgCAAAAAAAAMCAAALQCAAAAAAAAAcAAAAwCAAAAAAAA
+				EcAAABQAAAAAAAAAEsAAABwCAAAAAAAAENAAALwCAAAA
+				AAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T03:00:30Z</date>
+				<key>fileSize</key>
+				<integer>3100453</integer>
+				<key>md5</key>
+				<string>DCA9F4575019EB02C16FAD48FA99A646</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.svg</string>
+				<key>resourceName</key>
+				<string>microview-breadboard.svg</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAACE96Jujbw7SbSdwhMy+VPWD
+				Wqr16moHjyKqut1Tqpm73AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQuc3Zn
+				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
+				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
+				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
+				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
+				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
+				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
+				AAAEAwAA7rftAQAAAAAIAAAABAMAAL7j7QEAAAAALAAA
+				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
+				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjOsGIAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
+				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
+				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
+				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
+				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
+				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
+				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T03:32:55Z</date>
+				<key>fileSize</key>
+				<integer>3290147</integer>
+				<key>md5</key>
+				<string>C2163B8D7A5796A1426342F42DFC194D</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/LDR.svg</string>
+				<key>resourceName</key>
+				<string>LDR-2.svg</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAOH9VP5cgOHqxNBJR0MB2n+K
+				GSbFj7BniUrpaOpV28TLzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AAcAAAABAQAATERSLnN2ZwAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC4
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADut+0BAAAAAAgA
+				AAAEAwAARrjtAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuM6DQwAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T03:41:54Z</date>
+				<key>fileSize</key>
+				<integer>3231656</integer>
+				<key>md5</key>
+				<string>BA59EBA809FC5F3EFE8618E35728DF9D</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/hope-01.svg</string>
+				<key>resourceName</key>
+				<string>hope-01.svg</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8gDAAAAAAQQMAAAADLxNE6SkHVNe5+HrsselCzi
+				wkj2RMgm+mfYG6uIcUcM0AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AAsAAAABAQAAaG9wZS0wMS5zdmcALAAAAAEGAAAEAAAA
+				FAAAACQAAAA0AAAARAAAAFQAAABkAAAAeAAAAJQAAACk
+				AAAAuAAAAAgAAAAEAwAAOwYCAAAAAAAIAAAABAMAAPTK
+				BQAAAAAACAAAAAQDAADBzbMAAAAAAAgAAAAEAwAACc6z
+				AAAAAAAIAAAABAMAADvOswAAAAAACAAAAAQDAADpz7MA
+				AAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAJ/s4QEA
+				AAAACAAAAAQDAABO7eEBAAAAAAgAAAAEAwAA7rftAQAA
+				AAAIAAAABAMAAPnz7QEAAAAALAAAAAEGAAAAAQAAEAEA
+				ACABAAAwAQAAQAEAAFABAABgAQAAcAEAAIABAACQAQAA
+				oAEAAAgAAAAABAAAQbjOvX0AAAAYAAAAAQIAAAEAAAAA
+				AAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAACQAAAAAA
+				AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+				RAgAAAAEAwAAAHCiR3QAAAAIAAAAAAQAAEG2MU2SAAAA
+				JAAAAAEBAABCODA3NjRFRS03QTc3LTM1RDMtOERGQi1D
+				QkRFQzQwNUM5NzkYAAAAAQIAAIEAAAABAAgA7xcAAAEA
+				CAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAABAAA
+				AAMDAAAACQAowAAAAP7///8BAAAAAAAAAA8AAAAEEAAA
+				zAAAAAAAAAAFEAAAsAEAAAAAAAAQEAAA9AEAAAAAAABA
+				EAAA5AEAAAAAAAACIAAAsAIAAAAAAAAQIAAAMAIAAAAA
+				AAARIAAAZAIAAAAAAAASIAAARAIAAAAAAAATIAAAVAIA
+				AAAAAAAgIAAAkAIAAAAAAAAwIAAAvAIAAAAAAAABwAAA
+				FAIAAAAAAAARwAAAFAAAAAAAAAASwAAAJAIAAAAAAAAQ
+				0AAAxAIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneScalePercentageSize</key>
@@ -2920,110 +3185,26 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
 				<string>kTimelineDefaultIdentifier</string>
 				<key>elements</key>
 				<dict>
-					<key>19</key>
+					<key>163</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>AutoresizingMask</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>109</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderStyleRight</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleTop</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthRight</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthTop</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleLeft</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
+							<string>FontSize</string>
 							<key>objectValue</key>
 							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string></string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>275px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorTop</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3033,9 +3214,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>47</string>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3045,27 +3238,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>BackgroundRepeat</string>
 							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>324px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleBottom</string>
-							<key>objectValue</key>
-							<string>None</string>
+							<string>no-repeat</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3075,27 +3250,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>Height</string>
 							<key>objectValue</key>
-							<string>#A0A0A0</string>
+							<string>291px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>290px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
+							<string>162</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3105,27 +3268,33 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorRight</string>
+							<string>SizeRatio</string>
 							<key>objectValue</key>
-							<string>#A0A0A0</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>Width</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>291px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3135,9 +3304,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>324px</string>
+							<string>LDR</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3674,10 +3855,10 @@
 			<key>oid</key>
 			<string>6</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{0, 95}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>49</string>
+				<string>22</string>
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
@@ -3696,7 +3877,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -3745,7 +3926,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3811,7 +3992,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3904,7 +4085,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>11</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3941,6 +4122,123 @@
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>615px</string>
+						</dict>
+					</array>
+					<key>175</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>hope-01</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>202px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>52px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>174</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 					</array>
 					<key>62</key>
@@ -4045,7 +4343,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4094,9 +4392,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4186,7 +4484,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>6</string>
+							<string>8</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4208,9 +4506,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>96</key>
@@ -4297,7 +4595,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>10</string>
+							<string>12</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4354,13 +4652,13 @@
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>SizeRatio</string>
 							<key>objectValue</key>
-							<string>1.33117</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4372,7 +4670,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4965,10 +5263,10 @@
 			<key>oid</key>
 			<string>56</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{163, 3}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>96</string>
+				<string>175</string>
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
@@ -4981,13 +5279,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.1666666716337204</real>
+					<real>3.1666667461395264</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -5066,7 +5364,7 @@
 							<key>identifier</key>
 							<string>SizeRatio</string>
 							<key>objectValue</key>
-							<string>1.33117</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5108,13 +5406,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>100px</string>
 						</dict>
 					</array>
 					<key>104</key>
@@ -5250,6 +5548,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ConstrainProportions</string>
 							<key>objectValue</key>
 							<string>YES</string>
@@ -5319,6 +5623,12 @@
 							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
 							<string>101</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5504,7 +5814,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5627,7 +5937,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5750,7 +6060,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5853,6 +6163,129 @@
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>615px</string>
+						</dict>
+					</array>
+					<key>165</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>440px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>164</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>459px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string></string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>LDR-1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>100px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>100px</string>
 						</dict>
 					</array>
 					<key>65</key>
@@ -6006,15 +6439,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6120,9 +6553,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 				</dict>
@@ -6886,9 +7319,11 @@
 			<key>oid</key>
 			<string>64</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{99, 95}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>165</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
@@ -6906,7 +7341,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7034,15 +7469,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>IFrameURL</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string></string>
+							<string>627px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>992px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7184,15 +7619,15 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>IFrameURL</string>
 							<key>objectValue</key>
-							<string>627px</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>992px</string>
 						</dict>
 					</array>
 				</dict>
@@ -7312,7 +7747,7 @@ void loop() {
 			<key>oid</key>
 			<string>134</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{1163, 814}</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>141</string>
@@ -9890,6 +10325,6 @@ document.onkeydown = key;
 	<key>webAppCapable</key>
 	<integer>1</integer>
 	<key>zoomFactor</key>
-	<real>0.75</real>
+	<real>1</real>
 </dict>
 </plist>
