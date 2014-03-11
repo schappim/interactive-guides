@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>6</string>
+	<string>64</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-10T23:29:08Z</date>
+	<date>2014-03-11T04:50:56Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>416 947 1440 831 416 900 1440 878 </string>
+		<string>0 47 1436 831 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -2040,47 +2040,49 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-10T23:26:23Z</date>
+				<date>2014-03-10T23:39:11Z</date>
 				<key>fileSize</key>
-				<integer>9596</integer>
+				<integer>11884</integer>
 				<key>md5</key>
-				<string>A7A951011EE7093751F21384A4002578</string>
+				<string>B4A0879A984877A642D0B248D8D14A0F</string>
 				<key>notifyOnBookmarkChange</key>
 				<true/>
 				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/LDR.svg</string>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/LDR.svg</string>
 				<key>resourceName</key>
 				<string>LDR.svg</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va5gDAAAAAAQQMAAAADBwJdcxLKdXX+FMe8bleQVt
-				yBjrEuxJbkXyCwxQyf1woAIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8ADAAAAAAQQMAAAADjJ7YwYIdTlhAYTYr2iv/Qu
+				1SQZOhnLYTis2dI7/RMgyAIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
 				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAHAAAAAQEAAExEUi5zdmcAKAAA
-				AAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABkAAAA
-				eAAAAJQAAACkAAAACAAAAAQDAAA7BgIAAAAAAAgAAAAE
-				AwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAAAAQD
-				AAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAABAMA
-				AOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAA
-				n+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQDAAD0
-				tO0BAAAAACgAAAABBgAA5AAAAPQAAAAEAQAAFAEAACQB
-				AAA0AQAARAEAAFQBAABkAQAAdAEAAAgAAAAABAAAQbjO
-				gZ8AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
-				AAAAAAgAAAAEAwAACAAAAAAAAAAEAAAAAwMAAPUBAAAM
-				AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QA
-				AAAIAAAAAAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRF
-				RS03QTc3LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAA
-				AQIAAIEAAAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAAB
-				AQAALwAAAAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7/
-				//8BAAAAAAAAAA8AAAAEEAAAtAAAAAAAAAAFEAAAhAEA
-				AAAAAAAQEAAAxAEAAAAAAABAEAAAtAEAAAAAAAACIAAA
-				gAIAAAAAAAAQIAAAAAIAAAAAAAARIAAANAIAAAAAAAAS
-				IAAAFAIAAAAAAAATIAAAJAIAAAAAAAAgIAAAYAIAAAAA
-				AAAwIAAAjAIAAAAAAAABwAAA5AEAAAAAAAARwAAAFAAA
-				AAAAAAASwAAA9AEAAAAAAAAQ0AAAlAIAAAAAAAA=
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAABwAA
+				AAEBAABMRFIuc3ZnACwAAAABBgAABAAAABQAAAAkAAAA
+				NAAAAEQAAABUAAAAZAAAAHgAAACUAAAApAAAALQAAAAI
+				AAAABAMAADsGAgAAAAAACAAAAAQDAAD0ygUAAAAAAAgA
+				AAAEAwAAwc2zAAAAAAAIAAAABAMAAAnOswAAAAAACAAA
+				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
+				BAMAALi64QEAAAAACAAAAAQDAACf7OEBAAAAAAgAAAAE
+				AwAATu3hAQAAAAAIAAAABAMAAOy47QEAAAAACAAAAAQD
+				AAD0tO0BAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
+				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
+				AAQAAEG4zoGfAAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
+				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
+				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
+				QjgwNzY0RUUtN0E3Ny0zNUQzLThERkItQ0JERUM0MDVD
+				OTc5GAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAkA
+				KMAAAAD+////AQAAAAAAAAAPAAAABBAAAMQAAAAAAAAA
+				BRAAAKgBAAAAAAAAEBAAAOwBAAAAAAAAQBAAANwBAAAA
+				AAAAAiAAAKgCAAAAAAAAECAAACgCAAAAAAAAESAAAFwC
+				AAAAAAAAEiAAADwCAAAAAAAAEyAAAEwCAAAAAAAAICAA
+				AIgCAAAAAAAAMCAAALQCAAAAAAAAAcAAAAwCAAAAAAAA
+				EcAAABQAAAAAAAAAEsAAABwCAAAAAAAAENAAALwCAAAA
+				AAAA
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -2998,15 +3000,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>LDR</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3346,9 +3348,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3430,9 +3432,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3442,9 +3444,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3466,9 +3468,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -3511,9 +3513,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3625,9 +3627,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -4282,9 +4284,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4396,18 +4398,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>96</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4525,9 +4527,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>99</key>
@@ -5181,7 +5183,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1124, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -6200,9 +6202,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6314,9 +6316,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
