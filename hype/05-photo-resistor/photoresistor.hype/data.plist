@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>6</string>
+	<string>56</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-11T10:22:22Z</date>
+	<date>2014-03-11T10:52:07Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -2139,120 +2139,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T04:53:26Z</date>
-				<key>fileSize</key>
-				<integer>39798</integer>
-				<key>md5</key>
-				<string>6711B8180F9319358C01B5D8FAD10BBF</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9QDAAAAAAQQMAAAAEodEz/tHv+UpgOxm/UvCzFJ
-				hgJDLFMI0QGQnuGTPmhp3AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
-				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
-				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
-				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
-				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
-				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
-				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
-				AAAEAwAA7rftAQAAAAAIAAAABAMAAOMO7gEAAAAALAAA
-				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
-				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjOzkYAAAAY
-				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
-				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
-				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
-				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
-				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
-				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
-				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
-				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
-				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
-				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
-				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
-				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
-				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-11T05:01:32Z</date>
-				<key>fileSize</key>
-				<integer>39818</integer>
-				<key>md5</key>
-				<string>988EE8250874121F2E48201CB7C60C8D</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard@2x.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9gDAAAAAAQQMAAAALaNXpwS5/qSGlsCKtQoaiap
-				oQiSxj6A2lvopfOjA18i4AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABsAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmRAMngu
-				cG5nACwAAAABBgAABAAAABQAAAAkAAAANAAAAEQAAABU
-				AAAAZAAAAHgAAACUAAAApAAAALgAAAAIAAAABAMAADsG
-				AgAAAAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2z
-				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
-				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
-				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
-				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAAChEu4BAAAA
-				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
-				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG4ztAs
-				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
-				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
-				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
-				CAAAAAAEAABBtjFNkgAAACQAAAABAQAAQjgwNzY0RUUt
-				N0E3Ny0zNUQzLThERkItQ0JERUM0MDVDOTc5GAAAAAEC
-				AACBAAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEA
-				AC8AAAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////
-				AQAAAAAAAAAPAAAABBAAANwAAAAAAAAABRAAAMABAAAA
-				AAAAEBAAAAQCAAAAAAAAQBAAAPQBAAAAAAAAAiAAAMAC
-				AAAAAAAAECAAAEACAAAAAAAAESAAAHQCAAAAAAAAEiAA
-				AFQCAAAAAAAAEyAAAGQCAAAAAAAAICAAAKACAAAAAAAA
-				MCAAAMwCAAAAAAAAAcAAACQCAAAAAAAAEcAAABQAAAAA
-				AAAAEsAAADQCAAAAAAAAENAAANQCAAAAAAAA
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-03-11T05:06:56Z</date>
 				<key>fileSize</key>
 				<integer>5579</integer>
@@ -2581,6 +2467,120 @@
 				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
 				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
 				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T10:51:46Z</date>
+				<key>fileSize</key>
+				<integer>79698</integer>
+				<key>md5</key>
+				<string>6BC8E63157965082DEA1BB72BAD41932</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAADegqnjgB9ltfXLKcyLPcC4V
+				svhJDY1rNUHh6z0zAa4p3AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
+				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
+				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
+				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
+				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
+				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
+				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
+				AAAEAwAA7rftAQAAAAAIAAAABAMAAMVe7gEAAAAALAAA
+				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
+				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjPIkEAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
+				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
+				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
+				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
+				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
+				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
+				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T10:52:03Z</date>
+				<key>fileSize</key>
+				<integer>144477</integer>
+				<key>md5</key>
+				<string>76F67F4A9820641307AC740871A4E12F</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9gDAAAAAAQQMAAAAEze2u4o3qtRp5QTHyW4iqfP
+				3FSY5mYoX3td29qFV1ek4AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABsAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmRAMngu
+				cG5nACwAAAABBgAABAAAABQAAAAkAAAANAAAAEQAAABU
+				AAAAZAAAAHgAAACUAAAApAAAALgAAAAIAAAABAMAADsG
+				AgAAAAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2z
+				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
+				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
+				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
+				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAADcXu4BAAAA
+				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
+				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG4zyJS
+				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
+				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
+				CAAAAAAEAABBtjFNkgAAACQAAAABAQAAQjgwNzY0RUUt
+				N0E3Ny0zNUQzLThERkItQ0JERUM0MDVDOTc5GAAAAAEC
+				AACBAAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEA
+				AC8AAAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////
+				AQAAAAAAAAAPAAAABBAAANwAAAAAAAAABRAAAMABAAAA
+				AAAAEBAAAAQCAAAAAAAAQBAAAPQBAAAAAAAAAiAAAMAC
+				AAAAAAAAECAAAEACAAAAAAAAESAAAHQCAAAAAAAAEiAA
+				AFQCAAAAAAAAEyAAAGQCAAAAAAAAICAAAKACAAAAAAAA
+				MCAAAMwCAAAAAAAAAcAAACQCAAAAAAAAEcAAABQAAAAA
+				AAAAEsAAADQCAAAAAAAAENAAANQCAAAAAAAA
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -4426,7 +4426,7 @@
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4444,7 +4444,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5864,7 +5864,7 @@
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5978,7 +5978,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
