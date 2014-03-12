@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>56</string>
+	<string>189</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-11T10:22:22Z</date>
+	<date>2014-03-12T00:18:06Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>185</real>
 		<key>mainWindowFrame</key>
-		<string>416 947 1440 831 416 900 1440 878 </string>
+		<string>0 47 1436 831 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -486,7 +486,7 @@
 				<string>161</string>
 				<key>resources</key>
 				<array>
-					<string>microview-breadboard-1.png</string>
+					<string>microview-breadboard-2.png</string>
 					<string>microview-breadboard@2x.png</string>
 				</array>
 			</dict>
@@ -499,7 +499,7 @@
 				<string>163</string>
 				<key>resources</key>
 				<array>
-					<string>programmer-1.png</string>
+					<string>programmer-2.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -2173,228 +2173,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T04:53:26Z</date>
-				<key>fileSize</key>
-				<integer>39798</integer>
-				<key>md5</key>
-				<string>6711B8180F9319358C01B5D8FAD10BBF</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard-1.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9vawgGAAAAAAQQMAAAAJtaIyx6f9/eZuP16QGEb9nw
-				Gpq0aS0iPdsq56Z8WWARBAUAAB8CAAABAQAAYXBwbGVz
-				ZWN1cml0eXNjb3BlPTM4MzgzNDMzNjYzNzYzNjMzNDM3
-				NjU2MTMxMzQ2NTM1MzkzMDMyNjE2NjM3Mzc2NTM4MzAz
-				MzYzMzAzMzYzMzE2MzM1MzIzNDYyNjYzOTM3M0IzMDMw
-				MzAzMDMwMzAzMDMwM0IzMDMwMzAzMDMwMzAzMDMwM0Iz
-				MDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzIzMDNC
-				NjM2RjZEMkU2MTcwNzA2QzY1MkU2MTcwNzAyRDczNjE2
-				RTY0NjI2Rjc4MkU3MjY1NjE2NDJENzc3MjY5NzQ2NTNC
-				MzAzMDMwMzAzMDMwMzAzMTNCMzAzMTMwMzAzMDMwMzAz
-				MTNCMzAzMDMwMzAzMDMwMzAzMDMwMzE2NTY1MzA2NTY1
-				MzMzQjJGNzU3MzY1NzI3MzJGNkU2OTZFNkE3NTczNzQ3
-				OTJGNjQ3MjZGNzA2MjZGNzgyRjc3NjE3MjY1NzMyRjc3
-				NjU2Mjc3NjE3MjY1MkY3MDcyNkY2QTY1NjM3NDczMkY2
-				NzY1NjU2QjIwNjE2RDZENkYyRjY5NkU3NDY1NzI2MTYz
-				NzQ2OTc2NjUyRDY3NzU2OTY0NjU3MzJGNjE3MzczNjU3
-				NDczMkY2MjcyNjU2MTY0NjI2RjYxNzI2NDJGNkQ2OTYz
-				NzI2Rjc2Njk2NTc3MkQ2MjcyNjU2MTY0NjI2RjYxNzI2
-				NDJFNzA2RTY3AAUAAAABAQAAVXNlcnMAAAAIAAAAAQEA
-				AG5pbmp1c3R5BwAAAAEBAABEcm9wYm94AAUAAAABAQAA
-				V0FSRVMAAAAHAAAAAQEAAFdlYndhcmUACAAAAAEBAABQ
-				cm9qZWN0cwkAAAABAQAAR2VlayBBbW1vAAAAEgAAAAEB
-				AABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYAAAABAQAAYXNz
-				ZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQAABgAAAABAQAA
-				bWljcm92aWV3LWJyZWFkYm9hcmQucG5nLAAAAAEGAAAs
-				AgAAPAIAAEwCAABcAgAAbAIAAHwCAACMAgAAoAIAALwC
-				AADMAgAA4AIAAAgAAAAEAwAAOwYCAAAAAAAIAAAABAMA
-				APTKBQAAAAAACAAAAAQDAADBzbMAAAAAAAgAAAAEAwAA
-				Cc6zAAAAAAAIAAAABAMAADvOswAAAAAACAAAAAQDAADp
-				z7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAJ/s
-				4QEAAAAACAAAAAQDAABO7eEBAAAAAAgAAAAEAwAA7rft
-				AQAAAAAIAAAABAMAAOMO7gEAAAAALAAAAAEGAAA0AwAA
-				RAMAAFQDAABkAwAAdAMAAIQDAACUAwAApAMAALQDAADE
-				AwAA1AMAAAgAAAAABAAAQbjOzkYAAAAYAAAAAQIAAAEA
-				AAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAACQAA
-				AAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9z
-				aCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAAAAQAAEG2MU2S
-				AAAAJAAAAAEBAABCODA3NjRFRS03QTc3LTM1RDMtOERG
-				Qi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEAAAABAAgA7xcA
-				AAEACAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
-				BAAAAAMDAAAACQAozAAAAP7///8BAAAAAAAAABAAAAAE
-				EAAAAAMAAAAAAAAFEAAA5AMAAAAAAAAQEAAAKAQAAAAA
-				AABAEAAAGAQAAAAAAAACEQAABAAAAAAAAAACIAAA5AQA
-				AAAAAAAQIAAAZAQAAAAAAAARIAAAmAQAAAAAAAASIAAA
-				eAQAAAAAAAATIAAAiAQAAAAAAAAgIAAAxAQAAAAAAAAw
-				IAAA8AQAAAAAAAABwAAASAQAAAAAAAARwAAAPAIAAAAA
-				AAASwAAAWAQAAAAAAAAQ0AAA+AQAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-11T05:01:32Z</date>
-				<key>fileSize</key>
-				<integer>39818</integer>
-				<key>md5</key>
-				<string>988EE8250874121F2E48201CB7C60C8D</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard@2x.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9vaxQGAAAAAAQQMAAAAFRUUHoo8tJKX7WVpLxZq82q
-				2Z73o6gmwYC8GJqwbOVAEAUAACUCAAABAQAAYXBwbGVz
-				ZWN1cml0eXNjb3BlPTY2NjU2MjMzMzEzODY1MzMzODY2
-				MzAzNzYyNjI2NjM3Mzc2MTMxMzM2NDY1NjQ2NjY0Mzkz
-				ODMzNjEzNzM2MzM2MzYyMzk2MTY1MzE2MjMzM0IzMDMw
-				MzAzMDMwMzAzMDMwM0IzMDMwMzAzMDMwMzAzMDMwM0Iz
-				MDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzIzMDNC
-				NjM2RjZEMkU2MTcwNzA2QzY1MkU2MTcwNzAyRDczNjE2
-				RTY0NjI2Rjc4MkU3MjY1NjE2NDJENzc3MjY5NzQ2NTNC
-				MzAzMDMwMzAzMDMwMzAzMTNCMzAzMTMwMzAzMDMwMzAz
-				MTNCMzAzMDMwMzAzMDMwMzAzMDMwMzE2NTY1MzEzMjYx
-				MzEzQjJGNzU3MzY1NzI3MzJGNkU2OTZFNkE3NTczNzQ3
-				OTJGNjQ3MjZGNzA2MjZGNzgyRjc3NjE3MjY1NzMyRjc3
-				NjU2Mjc3NjE3MjY1MkY3MDcyNkY2QTY1NjM3NDczMkY2
-				NzY1NjU2QjIwNjE2RDZENkYyRjY5NkU3NDY1NzI2MTYz
-				NzQ2OTc2NjUyRDY3NzU2OTY0NjU3MzJGNjE3MzczNjU3
-				NDczMkY2MjcyNjU2MTY0NjI2RjYxNzI2NDJGNkQ2OTYz
-				NzI2Rjc2Njk2NTc3MkQ2MjcyNjU2MTY0NjI2RjYxNzI2
-				NDQwMzI3ODJFNzA2RTY3AAAABQAAAAEBAABVc2VycwAA
-				AAgAAAABAQAAbmluanVzdHkHAAAAAQEAAERyb3Bib3gA
-				BQAAAAEBAABXQVJFUwAAAAcAAAABAQAAV2Vid2FyZQAI
-				AAAAAQEAAFByb2plY3RzCQAAAAEBAABHZWVrIEFtbW8A
-				AAASAAAAAQEAAGludGVyYWN0aXZlLWd1aWRlcwAABgAA
-				AAEBAABhc3NldHMAAAoAAAABAQAAQnJlYWRib2FyZAAA
-				GwAAAAEBAABtaWNyb3ZpZXctYnJlYWRib2FyZEAyeC5w
-				bmcALAAAAAEGAAA0AgAARAIAAFQCAABkAgAAdAIAAIQC
-				AACUAgAAqAIAAMQCAADUAgAA6AIAAAgAAAAEAwAAOwYC
-				AAAAAAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMA
-				AAAAAAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAA
-				AAAACAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAA
-				AAAIAAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAA
-				AAgAAAAEAwAA7rftAQAAAAAIAAAABAMAAKES7gEAAAAA
-				LAAAAAEGAABAAwAAUAMAAGADAABwAwAAgAMAAJADAACg
-				AwAAsAMAAMADAADQAwAA4AMAAAgAAAAABAAAQbjO0CwA
-				AAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAA
-				AAgAAAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAA
-				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAI
-				AAAAAAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03
-				QTc3LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIA
-				AIEAAAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAA
-				LwAAAAAAAAABBQAABAAAAAMDAAAACQAozAAAAP7///8B
-				AAAAAAAAABAAAAAEEAAADAMAAAAAAAAFEAAA8AMAAAAA
-				AAAQEAAANAQAAAAAAABAEAAAJAQAAAAAAAACEQAABAAA
-				AAAAAAACIAAA8AQAAAAAAAAQIAAAcAQAAAAAAAARIAAA
-				pAQAAAAAAAASIAAAhAQAAAAAAAATIAAAlAQAAAAAAAAg
-				IAAA0AQAAAAAAAAwIAAA/AQAAAAAAAABwAAAVAQAAAAA
-				AAARwAAARAIAAAAAAAASwAAAZAQAAAAAAAAQ0AAABAUA
-				AAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-11T04:55:14Z</date>
-				<key>fileSize</key>
-				<integer>7829</integer>
-				<key>md5</key>
-				<string>38D4E633EE820EE957B6FA8F6FD07D20</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/programmer.png</string>
-				<key>resourceName</key>
-				<string>programmer-1.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va+wFAAAAAAQQMAAAABa+IxTLwTvDVWC+Iy/SYbF3
-				B1TsyC2BZFZcPv9vhpwb6AQAAAsCAAABAQAAYXBwbGVz
-				ZWN1cml0eXNjb3BlPTYzNjMzOTMyMzM2NjY1MzM2MjM3
-				MzIzNDYxMzYzMjYzMzEzMjY2NjMzNDM4MzAzMTM3NjIz
-				NDMxNjMzMjM5NjUzOTMxMzQzODM0MzUzOTMwM0IzMDMw
-				MzAzMDMwMzAzMDMwM0IzMDMwMzAzMDMwMzAzMDMwM0Iz
-				MDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzIzMDNC
-				NjM2RjZEMkU2MTcwNzA2QzY1MkU2MTcwNzAyRDczNjE2
-				RTY0NjI2Rjc4MkU3MjY1NjE2NDJENzc3MjY5NzQ2NTNC
-				MzAzMDMwMzAzMDMwMzAzMTNCMzAzMTMwMzAzMDMwMzAz
-				MTNCMzAzMDMwMzAzMDMwMzAzMDMwMzE2NTY1MzA2NjM5
-				NjYzQjJGNzU3MzY1NzI3MzJGNkU2OTZFNkE3NTczNzQ3
-				OTJGNjQ3MjZGNzA2MjZGNzgyRjc3NjE3MjY1NzMyRjc3
-				NjU2Mjc3NjE3MjY1MkY3MDcyNkY2QTY1NjM3NDczMkY2
-				NzY1NjU2QjIwNjE2RDZENkYyRjY5NkU3NDY1NzI2MTYz
-				NzQ2OTc2NjUyRDY3NzU2OTY0NjU3MzJGNjE3MzczNjU3
-				NDczMkY2MjcyNjU2MTY0NjI2RjYxNzI2NDJGNzA3MjZG
-				Njc3MjYxNkQ2RDY1NzIyRTcwNkU2NwAFAAAAAQEAAFVz
-				ZXJzAAAACAAAAAEBAABuaW5qdXN0eQcAAAABAQAARHJv
-				cGJveAAFAAAAAQEAAFdBUkVTAAAABwAAAAEBAABXZWJ3
-				YXJlAAgAAAABAQAAUHJvamVjdHMJAAAAAQEAAEdlZWsg
-				QW1tbwAAABIAAAABAQAAaW50ZXJhY3RpdmUtZ3VpZGVz
-				AAAGAAAAAQEAAGFzc2V0cwAACgAAAAEBAABCcmVhZGJv
-				YXJkAAAOAAAAAQEAAHByb2dyYW1tZXIucG5nAAAsAAAA
-				AQYAABgCAAAoAgAAOAIAAEgCAABYAgAAaAIAAHgCAACM
-				AgAAqAIAALgCAADMAgAACAAAAAQDAAA7BgIAAAAAAAgA
-				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
-				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
-				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAnw/uAQAAAAAsAAAAAQYA
-				ABgDAAAoAwAAOAMAAEgDAABYAwAAaAMAAHgDAACIAwAA
-				mAMAAKgDAAC4AwAACAAAAAAEAABBuM7OsgAAABgAAAAB
-				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
-				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
-				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
-				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
-				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
-				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
-				AAEFAAAEAAAAAwMAAAAJACjMAAAA/v///wEAAAAAAAAA
-				EAAAAAQQAADkAgAAAAAAAAUQAADIAwAAAAAAABAQAAAM
-				BAAAAAAAAEAQAAD8AwAAAAAAAAIRAAAEAAAAAAAAAAIg
-				AADIBAAAAAAAABAgAABIBAAAAAAAABEgAAB8BAAAAAAA
-				ABIgAABcBAAAAAAAABMgAABsBAAAAAAAACAgAACoBAAA
-				AAAAADAgAADUBAAAAAAAAAHAAAAsBAAAAAAAABHAAAAo
-				AgAAAAAAABLAAAA8BAAAAAAAABDQAADcBAAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-03-11T07:59:10Z</date>
 				<key>fileSize</key>
 				<integer>32958</integer>
@@ -2954,6 +2732,177 @@
 				AAAAAAAgIAAAkAIAAAAAAAAwIAAAvAIAAAAAAAABwAAA
 				FAIAAAAAAAARwAAAFAAAAAAAAAASwAAAJAIAAAAAAAAQ
 				0AAAxAIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T23:29:24Z</date>
+				<key>fileSize</key>
+				<integer>80870</integer>
+				<key>md5</key>
+				<string>6B1DB759D5139D6A0731AC5DFA9BFC5F</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard-2.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAAOQ9DKHNhKEFWUj/9DWmW/Dn
+				XdzZB/8xjkhePgb83mV33AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
+				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
+				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
+				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
+				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
+				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
+				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
+				AAAEAwAA7rftAQAAAAAIAAAABAMAAPa17gEAAAAALAAA
+				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
+				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjP09QAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
+				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
+				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
+				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
+				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
+				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
+				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T23:29:51Z</date>
+				<key>fileSize</key>
+				<integer>145906</integer>
+				<key>md5</key>
+				<string>2F1F8E6BEAB8DBFDC4058D81E2F55811</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9gDAAAAAAQQMAAAACq4qMTNAKhmEI1tbNx0PZ8x
+				kjieiSw6LoWitFz0WiNH4AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABsAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmRAMngu
+				cG5nACwAAAABBgAABAAAABQAAAAkAAAANAAAAEQAAABU
+				AAAAZAAAAHgAAACUAAAApAAAALgAAAAIAAAABAMAADsG
+				AgAAAAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2z
+				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
+				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
+				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
+				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAAAltu4BAAAA
+				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
+				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG4z9Pv
+				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
+				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
+				CAAAAAAEAABBtjFNkgAAACQAAAABAQAAQjgwNzY0RUUt
+				N0E3Ny0zNUQzLThERkItQ0JERUM0MDVDOTc5GAAAAAEC
+				AACBAAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEA
+				AC8AAAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////
+				AQAAAAAAAAAPAAAABBAAANwAAAAAAAAABRAAAMABAAAA
+				AAAAEBAAAAQCAAAAAAAAQBAAAPQBAAAAAAAAAiAAAMAC
+				AAAAAAAAECAAAEACAAAAAAAAESAAAHQCAAAAAAAAEiAA
+				AFQCAAAAAAAAEyAAAGQCAAAAAAAAICAAAKACAAAAAAAA
+				MCAAAMwCAAAAAAAAAcAAACQCAAAAAAAAEcAAABQAAAAA
+				AAAAEsAAADQCAAAAAAAAENAAANQCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-11T23:43:38Z</date>
+				<key>fileSize</key>
+				<integer>17215</integer>
+				<key>md5</key>
+				<string>338417DD050619540D561EAFA8516B43</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/programmer.png</string>
+				<key>resourceName</key>
+				<string>programmer-2.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8wDAAAAAAQQMAAAAIjD7Jjj5Su70rwcTXa9MAdK
+				KYIchBuVQTuE0jofffm21AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AA4AAAABAQAAcHJvZ3JhbW1lci5wbmcAACwAAAABBgAA
+				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
+				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
+				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
+				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
+				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
+				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
+				7QEAAAAACAAAAAQDAADHue4BAAAAACwAAAABBgAABAEA
+				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
+				lAEAAKQBAAAIAAAAAAQAAEG4z9cqAAAAGAAAAAECAAAB
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
+				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
+				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
+				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
+				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
+				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
+				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
+				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
+				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
+				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
+				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
+				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
+				AAAAENAAAMgCAAAAAAAA
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -4794,7 +4743,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>5</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -4934,9 +4883,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5050,22 +4999,22 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>164</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5179,13 +5128,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>62</key>
@@ -5339,9 +5288,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5453,9 +5402,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>96</key>
@@ -6107,7 +6056,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>2.9000000953674316</real>
+					<real>7.1999998092651367</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -6124,9 +6073,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6172,9 +6121,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
+							<string>PointerEvents</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6196,15 +6145,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
+							<string>Height</string>
 							<key>objectValue</key>
-							<string>101</string>
+							<string>462px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PointerEvents</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>101</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6250,18 +6199,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>165</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6375,22 +6324,22 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>166</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6504,22 +6453,22 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>174</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6637,9 +6586,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>65</key>
@@ -6688,15 +6637,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
+							<string>PointerEvents</string>
 							<key>objectValue</key>
-							<string>94px</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
+							<string>Height</string>
 							<key>objectValue</key>
-							<string>58</string>
+							<string>94px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6712,9 +6661,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PointerEvents</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>58</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6805,9 +6754,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6853,9 +6802,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
+							<string>PointerEvents</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>auto</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6871,9 +6820,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PointerEvents</string>
+							<string>Height</string>
 							<key>objectValue</key>
-							<string>auto</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6931,9 +6880,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -7099,7 +7048,7 @@
 								<key>uuid</key>
 								<string>6C9363A7-D703-490F-87B0-0FAC13725F31-16801-000584A9E5558853</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7133,7 +7082,7 @@
 								<key>uuid</key>
 								<string>FF826803-8397-41D8-A394-1755E116973E-16801-000584ABDE4A0CFE</string>
 								<key>zIndex</key>
-								<integer>7</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7167,7 +7116,7 @@
 								<key>uuid</key>
 								<string>6C0B7558-D73C-4594-ACDC-A0817B351433-44227-0001D7059ECAAACD</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7194,7 +7143,7 @@
 								<key>uuid</key>
 								<string>C6B5F9BE-F97A-4868-A331-FE7DDBE0DDA0-44227-0001D5F094E1FCC3</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7228,7 +7177,7 @@
 								<key>uuid</key>
 								<string>DFC20B88-9400-4AAD-99CF-E5CF8994E2F3-16801-000585018592A641</string>
 								<key>zIndex</key>
-								<integer>18</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7287,7 +7236,7 @@
 								<key>uuid</key>
 								<string>5E352D2A-9C4E-4A64-B224-A97F9BD7DFD3-16801-0005850185936453</string>
 								<key>zIndex</key>
-								<integer>19</integer>
+								<integer>7</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -7326,7 +7275,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>2.5</real>
+					<real>6.7333335876464844</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -7343,9 +7292,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>287px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7463,9 +7412,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>287px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>176</key>
@@ -7508,9 +7457,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7634,18 +7583,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>177</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7769,18 +7718,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>178</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7898,18 +7847,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>179</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8023,22 +7972,22 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>180</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8152,13 +8101,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>200</key>
@@ -8515,7 +8464,7 @@
 								<key>uuid</key>
 								<string>B4F0EA0C-8AA6-413D-8FF8-AE58F73C7FFE-44227-0001D700C68E0483</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8542,7 +8491,7 @@
 								<key>uuid</key>
 								<string>A34EFC2D-7BB3-425F-B7E2-CE064C28FBC9-44227-0001D6D39A46839E</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8674,7 +8623,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>2.5333333015441895</real>
+					<real>3.2333333492279053</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -8691,9 +8640,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8807,13 +8756,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>184</key>
@@ -8856,9 +8805,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8982,18 +8931,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>185</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9107,22 +9056,22 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>186</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9170,7 +9119,7 @@
 							<key>identifier</key>
 							<string>PointerEvents</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>auto</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9230,7 +9179,7 @@
 							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9246,18 +9195,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>187</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9375,18 +9324,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>188</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>287px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9504,9 +9453,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>287px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>209</key>
@@ -9854,14 +9803,7 @@
 						<array>
 							<dict>
 								<key>duration</key>
-								<real>0.46666666865348816</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
+								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
 								<key>isRelative</key>
@@ -9885,74 +9827,6 @@
 								<string>4B8148FD-FEBD-42CF-9643-1A0A424E978E-16801-000584A8B2E49E5F</string>
 								<key>zIndex</key>
 								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.233911</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>186</string>
-								<key>startTime</key>
-								<real>0.46666666865348816</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>6C9363A7-D703-490F-87B0-0FAC13725F31-16801-000584A9E5558853</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>6.4333333969116211</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.230000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>186</string>
-								<key>startTime</key>
-								<real>1</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.233911</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>FF826803-8397-41D8-A394-1755E116973E-16801-000584ABDE4A0CFE</string>
-								<key>zIndex</key>
-								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -9986,7 +9860,7 @@
 								<key>uuid</key>
 								<string>F7164304-A4A0-4A62-9ECF-6DAA12CD86AA-44227-0001D6F8BFD43DD8</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10013,41 +9887,7 @@
 								<key>uuid</key>
 								<string>D6CFB723-5484-4F69-BB03-216719BD1629-44227-0001D6F9E95E54CD</string>
 								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>186</string>
-								<key>startTime</key>
-								<real>7.4333333969116211</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.230000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>DFC20B88-9400-4AAD-99CF-E5CF8994E2F3-16801-000585018592A641</string>
-								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -10081,33 +9921,6 @@
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>186</string>
-								<key>startTime</key>
-								<real>7.9666666984558105</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>5E352D2A-9C4E-4A64-B224-A97F9BD7DFD3-16801-0005850185936453</string>
-								<key>zIndex</key>
-								<integer>5</integer>
-							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
@@ -10132,8 +9945,7 @@
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>211</string>
-				<string>209</string>
+				<string>186</string>
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
@@ -11781,8 +11593,6 @@
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -16018,8 +15828,6 @@ void loop()
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 	</array>
 	<key>scripts</key>
