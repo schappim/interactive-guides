@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>64</string>
+	<string>6</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-12T00:16:47Z</date>
+	<date>2014-03-12T23:13:15Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>0 46 1436 831 0 0 1440 878 </string>
+		<string>0 47 1436 831 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -342,7 +342,7 @@
 				<string>97</string>
 				<key>resources</key>
 				<array>
-					<string>programmer-1.png</string>
+					<string>programmer-2.png</string>
 					<string>programmer@2x.png</string>
 				</array>
 			</dict>
@@ -355,8 +355,8 @@
 				<string>98</string>
 				<key>resources</key>
 				<array>
-					<string>microview-breadboard.png</string>
 					<string>microview-breadboard@2x.png</string>
+					<string>microview-breadboard.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -1924,64 +1924,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T23:29:24Z</date>
-				<key>fileSize</key>
-				<integer>80870</integer>
-				<key>md5</key>
-				<string>6B1DB759D5139D6A0731AC5DFA9BFC5F</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9QDAAAAAAQQMAAAAOQ9DKHNhKEFWUj/9DWmW/Dn
-				XdzZB/8xjkhePgb83mV33AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
-				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
-				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
-				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
-				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
-				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
-				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
-				AAAEAwAA7rftAQAAAAAIAAAABAMAAPa17gEAAAAALAAA
-				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
-				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjP09QAAAAY
-				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
-				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
-				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
-				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
-				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
-				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
-				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
-				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
-				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
-				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
-				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
-				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
-				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-11T23:29:51Z</date>
+				<date>2014-03-12T03:34:15Z</date>
 				<key>fileSize</key>
 				<integer>145906</integer>
 				<key>md5</key>
@@ -1994,8 +1937,8 @@
 				<string>microview-breadboard@2x.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va9gDAAAAAAQQMAAAACq4qMTNAKhmEI1tbNx0PZ8x
-				kjieiSw6LoWitFz0WiNH4AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va9gDAAAAAAQQMAAAAB6dbQdM1B/dbfHnhey/BlST
+				TOrELM9eMD1CLVyQtAf+4AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2008,9 +1951,9 @@
 				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
 				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
 				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
-				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAAAltu4BAAAA
+				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAABgSO8BAAAA
 				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
-				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG4z9Pv
+				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG40A02
 				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
 				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
 				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
@@ -2038,21 +1981,78 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T23:43:38Z</date>
+				<date>2014-03-12T03:33:54Z</date>
 				<key>fileSize</key>
-				<integer>17215</integer>
+				<integer>81081</integer>
 				<key>md5</key>
-				<string>338417DD050619540D561EAFA8516B43</string>
+				<string>F911B82A287D98E9CFBE9E3212A50415</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAAGV3W0aATuqgG4YpbascL5ao
+				gKVrNAbQR0FnXSHn0/za3AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
+				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
+				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
+				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
+				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
+				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
+				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
+				AAAEAwAA7rftAQAAAAAIAAAABAMAADRI7wEAAAAALAAA
+				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
+				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjQDSIAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
+				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
+				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
+				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
+				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
+				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
+				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-12T03:34:39Z</date>
+				<key>fileSize</key>
+				<integer>17233</integer>
+				<key>md5</key>
+				<string>86C76254CDFA59A220577544AB5D6DAC</string>
 				<key>notifyOnBookmarkChange</key>
 				<true/>
 				<key>originalPath</key>
 				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/programmer.png</string>
 				<key>resourceName</key>
-				<string>programmer-1.png</string>
+				<string>programmer-2.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8wDAAAAAAQQMAAAAIjD7Jjj5Su70rwcTXa9MAdK
-				KYIchBuVQTuE0jofffm21AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8wDAAAAAAQQMAAAAKKGkNuVgM2qwNSa4S5nh8cM
+				GrtFhiksyl7In1zlD28v1AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2065,9 +2065,9 @@
 				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
 				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
 				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
-				7QEAAAAACAAAAAQDAADHue4BAAAAACwAAAABBgAABAEA
+				7QEAAAAACAAAAAQDAACRSO8BAAAAACwAAAABBgAABAEA
 				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
-				lAEAAKQBAAAIAAAAAAQAAEG4z9cqAAAAGAAAAAECAAAB
+				lAEAAKQBAAAIAAAAAAQAAEG40A1OAAAAGAAAAAECAAAB
 				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
 				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
 				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
@@ -2095,11 +2095,11 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T23:44:01Z</date>
+				<date>2014-03-12T03:34:57Z</date>
 				<key>fileSize</key>
-				<integer>41428</integer>
+				<integer>41458</integer>
 				<key>md5</key>
-				<string>73334EA9C24522F8F138676009E7D2CF</string>
+				<string>264FDC7343135173E29859AE7CF23FED</string>
 				<key>notifyOnBookmarkChange</key>
 				<true/>
 				<key>originalPath</key>
@@ -2108,8 +2108,8 @@
 				<string>programmer@2x.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va9ADAAAAAAQQMAAAAIJ/59y8U/DMRthqlheE/+Rq
-				FJ9q1QRdzDwWJm8TbLmj2AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va9ADAAAAAAQQMAAAAM+SLFPDbVNI1yId+vv4cIs6
+				eFWfv/QVF7DnyZlZYi+62AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2122,9 +2122,9 @@
 				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
 				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
 				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAA+7nuAQAAAAAsAAAAAQYA
+				AADut+0BAAAAAAgAAAAEAwAAuUjvAQAAAAAsAAAAAQYA
 				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuM/XQQAAABgAAAAB
+				iAEAAJgBAACoAQAACAAAAAAEAABBuNANYQAAABgAAAAB
 				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
 				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
 				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
@@ -3119,6 +3119,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
 							<string>10px</string>
@@ -3485,9 +3491,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3569,9 +3575,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3581,9 +3587,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>3</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3605,9 +3611,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3626,9 +3632,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3710,9 +3716,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3722,9 +3728,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3746,9 +3752,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -3791,9 +3797,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3905,9 +3911,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -4150,7 +4156,7 @@
 				<string>19</string>
 			</array>
 			<key>splitHeight</key>
-			<real>585</real>
+			<real>724</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -5529,7 +5535,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>1.4666666984558105</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -5779,13 +5785,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>924px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>2460px</string>
 						</dict>
 					</array>
 					<key>105</key>
@@ -6554,9 +6560,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6668,9 +6674,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -7434,7 +7440,7 @@
 			<key>oid</key>
 			<string>64</string>
 			<key>scrollViewOffset</key>
-			<string>{603, 533}</string>
+			<string>{603, 534}</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
@@ -7448,13 +7454,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>6.0999999046325684</real>
+					<real>0.76666665077209473</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1898, 788}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7501,9 +7507,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7615,9 +7621,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>120</key>
@@ -7734,13 +7740,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>121</key>
@@ -8103,13 +8109,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>2460px</string>
 						</dict>
 					</array>
 					<key>124</key>
@@ -8725,9 +8731,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>287px</string>
+							<string>#73528F</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8839,9 +8845,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>#73528F</string>
+							<string>287px</string>
 						</dict>
 					</array>
 				</dict>
@@ -9288,11 +9294,11 @@
 			<key>oid</key>
 			<string>67</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{555, 543.5}</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>585</real>
+			<real>724</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
