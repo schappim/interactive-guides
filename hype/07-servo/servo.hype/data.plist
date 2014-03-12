@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-12T00:18:06Z</date>
+	<date>2014-03-12T03:27:15Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -512,6 +512,7 @@
 				<key>resources</key>
 				<array>
 					<string>servo.png</string>
+					<string>servo@2x.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -524,6 +525,7 @@
 				<key>resources</key>
 				<array>
 					<string>wires.png</string>
+					<string>wires@2x.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -2173,120 +2175,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-11T07:59:10Z</date>
-				<key>fileSize</key>
-				<integer>32958</integer>
-				<key>md5</key>
-				<string>B7556AA7904F490C62BB92BE074F4489</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/servo.png</string>
-				<key>resourceName</key>
-				<string>servo.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8QDAAAAAAQQMAAAALJzrMLx0OGAV8WOsnf/1KA/
-				OSljqUjm+Uzryh6xYYICzAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
-				AAEBAABzZXJ2by5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
-				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
-				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
-				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
-				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAAOCruAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
-				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuM75zgAAABgAAAABAgAAAQAAAAAAAAAP
-				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
-				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
-				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
-				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
-				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
-				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
-				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
-				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
-				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
-				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
-				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
-				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
-				AgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-11T08:24:36Z</date>
-				<key>fileSize</key>
-				<integer>6361</integer>
-				<key>md5</key>
-				<string>A1475DEC367218039C62DE41BFF3BF91</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/wires.png</string>
-				<key>resourceName</key>
-				<string>wires.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8QDAAAAAAQQMAAAAISMteFXxoU+W3r47r4MG53P
-				WMqhCkb2vlCxfB+ugCChzAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
-				AAEBAAB3aXJlcy5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
-				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
-				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
-				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
-				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAAnC/uAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
-				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuM7/wwAAABgAAAABAgAAAQAAAAAAAAAP
-				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
-				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
-				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
-				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
-				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
-				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
-				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
-				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
-				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
-				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
-				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
-				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
-				AgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-03-11T09:40:13Z</date>
 				<key>fileSize</key>
 				<integer>6614</integer>
@@ -2912,6 +2800,234 @@
 				<true/>
 				<key>shouldRemoveWhenNoLongerReferenced</key>
 				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-12T03:08:33Z</date>
+				<key>fileSize</key>
+				<integer>15715</integer>
+				<key>md5</key>
+				<string>6367399C4A61B926B1DF82697FA5315D</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/wires.png</string>
+				<key>resourceName</key>
+				<string>wires.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAACzBMb0c16Yv97N7yx+oRAsG
+				WxNGaCh86fpUfxiclYvCzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
+				AAEBAAB3aXJlcy5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
+				AAAEAwAAnjvvAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuNAHMQAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-12T03:15:40Z</date>
+				<key>fileSize</key>
+				<integer>34585</integer>
+				<key>md5</key>
+				<string>FABEBF537487E90E9BAF2F8783D9F5A1</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/servo.png</string>
+				<key>resourceName</key>
+				<string>servo.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAEcMnldkaOeLGhiWwB7SWjw8
+				84p2icH6nrmO9SUAJpomzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
+				AAEBAABzZXJ2by5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
+				AAAEAwAALD/vAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuNAI3AAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-12T03:15:55Z</date>
+				<key>fileSize</key>
+				<integer>114132</integer>
+				<key>md5</key>
+				<string>354F63ED567A7C2487D492C2C8517660</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/servo@2x.png</string>
+				<key>resourceName</key>
+				<string>servo@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAIS9dw/QEDwIKMI6bhFj1AW5
+				bXCXTeeUa9v+8UbjYUJuzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAADAAA
+				AAEBAABzZXJ2b0AyeC5wbmcsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
+				AAAEAwAATT/vAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuNAI6gAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-12T03:08:51Z</date>
+				<key>fileSize</key>
+				<integer>54899</integer>
+				<key>md5</key>
+				<string>15A6321CF9F2BEDE5A591B4909792B5F</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/wires@2x.png</string>
+				<key>resourceName</key>
+				<string>wires@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAJs2lA3X6jmH0/J3f+eokRlZ
+				Yn+j9aFeuEOSQMlel8V1zAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAADAAA
+				AAEBAAB3aXJlc0AyeC5wbmcsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
+				AAAEAwAAyTvvAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuNAHQwAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
@@ -3818,21 +3934,21 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>servo</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>512px</string>
+							<string>256px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3850,7 +3966,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>456px</string>
+							<string>228px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3947,9 +4063,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4021,7 +4137,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>602px</string>
+							<string>597px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4033,25 +4149,25 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Jumper Wires x3&lt;div&gt;(Black, red and blue)&lt;/div&gt;</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>227px</string>
+							<string>Jumper Wires x3&lt;div&gt;(Black, red and white)&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>8</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>238px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4073,19 +4189,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>172</key>
 					<array>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>DisplayName</string>
@@ -4094,9 +4204,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>512px</string>
+							<string>256px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4114,7 +4230,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>456px</string>
+							<string>228px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4211,9 +4327,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4295,9 +4411,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4307,9 +4423,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4331,9 +4447,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -4376,9 +4492,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4438,7 +4554,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>130px</string>
+							<string>98px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4450,7 +4566,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>For this circuit you will&lt;div&gt;need a servo motor and&lt;/div&gt;&lt;div&gt;three jumper wires.&lt;/div&gt;</string>
+							<string>For this circuit you will&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;need a servo motor and&amp;nbsp;&lt;/span&gt;&lt;span style="background-color: rgb(230, 230, 230);"&gt;three jumper wires.&lt;/span&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4462,7 +4578,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>747px</string>
+							<string>812px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4490,9 +4606,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -4729,9 +4845,11 @@
 			<key>oid</key>
 			<string>6</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{4, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>172</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
@@ -8623,7 +8741,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>3.2333333492279053</real>
+					<real>3</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -8885,7 +9003,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Plug one end of the blue wire into I11.</string>
+							<string>Plug one end of the blue wire into J11.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9944,9 +10062,7 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>186</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
