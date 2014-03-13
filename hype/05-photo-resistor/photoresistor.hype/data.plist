@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-13T02:50:41Z</date>
+	<date>2014-03-13T03:03:18Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -5501,7 +5501,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>2.0333333015441895</real>
+					<real>7.9666666984558105</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
