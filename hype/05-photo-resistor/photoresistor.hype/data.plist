@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-12T23:13:14Z</date>
+	<date>2014-03-12T23:58:52Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>292</real>
 		<key>mainWindowFrame</key>
-		<string>249 47 1436 831 0 0 1440 878 </string>
+		<string>0 47 1436 831 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -2547,11 +2547,11 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T23:12:55Z</date>
+				<date>2014-03-12T23:36:25Z</date>
 				<key>fileSize</key>
-				<integer>11560</integer>
+				<integer>11803</integer>
 				<key>md5</key>
-				<string>1788E2C92AC01077184F6AAA0B3F00D0</string>
+				<string>226E7A1F7A98A5BE2AB39E04FF231602</string>
 				<key>notifyOnBookmarkChange</key>
 				<true/>
 				<key>originalPath</key>
@@ -2560,8 +2560,8 @@
 				<string>LDR.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8ADAAAAAAQQMAAAAAciyUo+XRckPQlwQhpUBjEx
-				4WnKg2qoILxKt/0RbfupyAIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8ADAAAAAAQQMAAAACLU0TheCgiEzXEH9UYcaKGi
+				shmpJ7UcSqFltY7YHZp9yAIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2574,9 +2574,9 @@
 				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
 				BAMAALi64QEAAAAACAAAAAQDAACf7OEBAAAAAAgAAAAE
 				AwAATu3hAQAAAAAIAAAABAMAAOy47QEAAAAACAAAAAQD
-				AACv4/ABAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
+				AABA9PABAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
 				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
-				AAQAAEG40SF3AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAQAAEG40Sb5AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
 				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
 				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
 				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
@@ -3496,7 +3496,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1064, 788}</string>
+			<string>{1124, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -3507,9 +3507,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3519,9 +3519,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>13px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3551,7 +3557,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>186px</string>
+							<string>196px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3573,21 +3579,33 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>367px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.05455</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
 							<string>202</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>357px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.11404</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3599,7 +3617,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>309px</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3635,13 +3653,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>228px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>254px</string>
+							<string>290px</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3698,7 +3716,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>461px</string>
+							<string>487px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3899,7 +3917,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>For this circuit you will need a photoresistor.</string>
+							<string>For this circuit you will&lt;div&gt;need a photoresistor.&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4178,7 +4196,7 @@
 			<key>oid</key>
 			<string>6</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 80}</string>
+			<string>{0, 0}</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
@@ -10299,6 +10317,6 @@ document.onkeydown = key;
 	<key>webAppCapable</key>
 	<integer>1</integer>
 	<key>zoomFactor</key>
-	<real>1</real>
+	<real>0.75</real>
 </dict>
 </plist>
