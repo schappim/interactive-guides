@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>64</string>
+	<string>138</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-17T23:12:15Z</date>
+	<date>2014-03-17T23:29:35Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -7582,7 +7582,7 @@ void loop() {
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Start Circuit 6</string>
+							<string>Start Circuit 3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7831,7 +7831,7 @@ void loop() {
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Circuit #5 Complete!</string>
+							<string>Circuit #2 Complete!</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7843,7 +7843,7 @@ void loop() {
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>605px</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7989,13 +7989,15 @@ void loop() {
 				</array>
 			</dict>
 			<key>name</key>
-			<string>CODE Copy</string>
+			<string>Completed</string>
 			<key>oid</key>
 			<string>138</string>
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>140</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
