@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<true/>
 	<key>currentScene</key>
-	<string>6</string>
+	<string>64</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-13T00:09:14Z</date>
+	<date>2014-03-17T23:12:15Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -342,7 +342,7 @@
 				<string>97</string>
 				<key>resources</key>
 				<array>
-					<string>programmer-1.png</string>
+					<string>programmer-2.png</string>
 					<string>programmer@2x.png</string>
 				</array>
 			</dict>
@@ -1981,63 +1981,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T03:34:39Z</date>
-				<key>fileSize</key>
-				<integer>17233</integer>
-				<key>md5</key>
-				<string>86C76254CDFA59A220577544AB5D6DAC</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/programmer.png</string>
-				<key>resourceName</key>
-				<string>programmer-1.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8wDAAAAAAQQMAAAAKKGkNuVgM2qwNSa4S5nh8cM
-				GrtFhiksyl7In1zlD28v1AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				AA4AAAABAQAAcHJvZ3JhbW1lci5wbmcAACwAAAABBgAA
-				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
-				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
-				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
-				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
-				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
-				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
-				7QEAAAAACAAAAAQDAACRSO8BAAAAACwAAAABBgAABAEA
-				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
-				lAEAAKQBAAAIAAAAAAQAAEG40A1OAAAAGAAAAAECAAAB
-				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
-				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
-				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
-				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
-				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
-				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
-				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
-				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
-				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
-				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
-				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
-				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
-				AAAAENAAAMgCAAAAAAAA
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-03-12T03:34:15Z</date>
 				<key>fileSize</key>
 				<integer>145906</integer>
@@ -2095,11 +2038,68 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T03:34:57Z</date>
+				<date>2014-03-13T02:49:47Z</date>
 				<key>fileSize</key>
-				<integer>41458</integer>
+				<integer>12845</integer>
 				<key>md5</key>
-				<string>264FDC7343135173E29859AE7CF23FED</string>
+				<string>FA50DBBF5C389123E05D81C31E1DC2AE</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/programmer.png</string>
+				<key>resourceName</key>
+				<string>programmer-2.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8wDAAAAAAQQMAAAAC669m/EaRonhyMvnF+QIdz7
+				m6S4LfpkEbj9h90us+k31AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AA4AAAABAQAAcHJvZ3JhbW1lci5wbmcAACwAAAABBgAA
+				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
+				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
+				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
+				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
+				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
+				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
+				7QEAAAAACAAAAAQDAAAoKPEBAAAAACwAAAABBgAABAEA
+				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
+				lAEAAKQBAAAIAAAAAAQAAEG40VRLAAAAGAAAAAECAAAB
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
+				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
+				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
+				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
+				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
+				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
+				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
+				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
+				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
+				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
+				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
+				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
+				AAAAENAAAMgCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-13T02:50:03Z</date>
+				<key>fileSize</key>
+				<integer>35057</integer>
+				<key>md5</key>
+				<string>7783DB2A0B157E1F6C94E1D547D42100</string>
 				<key>notifyOnBookmarkChange</key>
 				<true/>
 				<key>originalPath</key>
@@ -2108,8 +2108,8 @@
 				<string>programmer@2x.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va9ADAAAAAAQQMAAAAM+SLFPDbVNI1yId+vv4cIs6
-				eFWfv/QVF7DnyZlZYi+62AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va9ADAAAAAAQQMAAAAHO65kxJkTrPWFjSbkzm068H
+				np4cLz8YLFTYIjqAvNPd2AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2122,9 +2122,9 @@
 				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
 				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
 				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAuUjvAQAAAAAsAAAAAQYA
+				AADut+0BAAAAAAgAAAAEAwAATCjxAQAAAAAsAAAAAQYA
 				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuNANYQAAABgAAAAB
+				iAEAAJgBAACoAQAACAAAAAAEAABBuNFUWgAAABgAAAAB
 				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
 				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
 				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
@@ -2593,9 +2593,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1024px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2719,9 +2719,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1024px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>4</key>
@@ -2734,9 +2734,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#45537D</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2890,9 +2890,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#45537D</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -3286,9 +3286,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3370,9 +3370,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3382,9 +3382,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3406,9 +3406,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -3451,9 +3451,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3565,9 +3565,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -3806,9 +3806,7 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>19</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
@@ -3851,7 +3849,7 @@
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>2460px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3869,7 +3867,7 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>924px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4224,9 +4222,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4338,18 +4336,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>96</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4467,9 +4465,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>99</key>
@@ -5117,13 +5115,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.1666666716337204</real>
+					<real>0.0</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1133, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -5367,13 +5365,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>1848px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>2460px</string>
 						</dict>
 					</array>
 					<key>105</key>
@@ -5517,7 +5515,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5640,7 +5638,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5763,7 +5761,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5886,7 +5884,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>none</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6142,9 +6140,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6216,7 +6214,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your photoresistor and insert it into points B15 and B16 of your breadboard.</string>
+							<string>Select your potentiometer and insert it into points B14, B15 and B16 of your breadboard.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6256,9 +6254,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 				</dict>
@@ -7170,15 +7168,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>IFrameURL</string>
 							<key>objectValue</key>
-							<string>711px</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>992px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7325,15 +7323,15 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>IFrameURL</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string></string>
+							<string>711px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>992px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -7475,7 +7473,7 @@ void loop() {
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1133, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7753,9 +7751,9 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#73528F</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7837,9 +7835,9 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7849,9 +7847,9 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7873,9 +7871,9 @@ void loop() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#73528F</string>
 						</dict>
 					</array>
 				</dict>
