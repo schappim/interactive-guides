@@ -11,8 +11,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-18T04:32:26Z</date>
+	<date>2014-03-19T01:06:25Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -124,7 +124,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>195</integer>
+	<integer>206</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -355,8 +355,8 @@
 				<string>98</string>
 				<key>resources</key>
 				<array>
-					<string>microview-breadboard.png</string>
 					<string>microview-breadboard@2x.png</string>
+					<string>microview-breadboard.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -513,6 +513,42 @@
 				<key>resources</key>
 				<array>
 					<string>wires@2x.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>pot-redwire</string>
+				<key>oid</key>
+				<string>196</string>
+				<key>resources</key>
+				<array>
+					<string>pot-redwire.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>pot-blackwire</string>
+				<key>oid</key>
+				<string>200</string>
+				<key>resources</key>
+				<array>
+					<string>pot-blackwire.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>pot-whitewire</string>
+				<key>oid</key>
+				<string>202</string>
+				<key>resources</key>
+				<array>
+					<string>pot-whitewire.png</string>
 				</array>
 			</dict>
 		</array>
@@ -1960,120 +1996,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T03:33:54Z</date>
-				<key>fileSize</key>
-				<integer>81081</integer>
-				<key>md5</key>
-				<string>F911B82A287D98E9CFBE9E3212A50415</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9QDAAAAAAQQMAAAAGV3W0aATuqgG4YpbascL5ao
-				gKVrNAbQR0FnXSHn0/za3AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
-				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
-				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
-				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
-				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
-				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
-				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
-				AAAEAwAA7rftAQAAAAAIAAAABAMAADRI7wEAAAAALAAA
-				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
-				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjQDSIAAAAY
-				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
-				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
-				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
-				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
-				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
-				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
-				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
-				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
-				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
-				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
-				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
-				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
-				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-12T03:34:15Z</date>
-				<key>fileSize</key>
-				<integer>145906</integer>
-				<key>md5</key>
-				<string>2F1F8E6BEAB8DBFDC4058D81E2F55811</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
-				<key>resourceName</key>
-				<string>microview-breadboard@2x.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9gDAAAAAAQQMAAAAB6dbQdM1B/dbfHnhey/BlST
-				TOrELM9eMD1CLVyQtAf+4AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABsAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmRAMngu
-				cG5nACwAAAABBgAABAAAABQAAAAkAAAANAAAAEQAAABU
-				AAAAZAAAAHgAAACUAAAApAAAALgAAAAIAAAABAMAADsG
-				AgAAAAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2z
-				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
-				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
-				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
-				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAABgSO8BAAAA
-				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
-				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG40A02
-				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
-				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
-				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
-				CAAAAAAEAABBtjFNkgAAACQAAAABAQAAQjgwNzY0RUUt
-				N0E3Ny0zNUQzLThERkItQ0JERUM0MDVDOTc5GAAAAAEC
-				AACBAAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEA
-				AC8AAAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////
-				AQAAAAAAAAAPAAAABBAAANwAAAAAAAAABRAAAMABAAAA
-				AAAAEBAAAAQCAAAAAAAAQBAAAPQBAAAAAAAAAiAAAMAC
-				AAAAAAAAECAAAEACAAAAAAAAESAAAHQCAAAAAAAAEiAA
-				AFQCAAAAAAAAEyAAAGQCAAAAAAAAICAAAKACAAAAAAAA
-				MCAAAMwCAAAAAAAAAcAAACQCAAAAAAAAEcAAABQAAAAA
-				AAAAEsAAADQCAAAAAAAAENAAANQCAAAAAAAA
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-03-13T02:49:47Z</date>
 				<key>fileSize</key>
 				<integer>12845</integer>
@@ -2370,6 +2292,291 @@
 				<true/>
 				<key>shouldRemoveWhenNoLongerReferenced</key>
 				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-19T00:56:53Z</date>
+				<key>fileSize</key>
+				<integer>14880</integer>
+				<key>md5</key>
+				<string>33AF43297D4F8676E3A6039055D18C53</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/pot-redwire.png</string>
+				<key>resourceName</key>
+				<string>pot-redwire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8wDAAAAAAQQMAAAABGdJ910m192cFU1qvO0Ov+w
+				Y4HbWh+Z/rQ7XqWEl/9c1AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AA8AAAABAQAAcG90LXJlZHdpcmUucG5nACwAAAABBgAA
+				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
+				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
+				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
+				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
+				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
+				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
+				7QEAAAAACAAAAAQDAABbi/kBAAAAACwAAAABBgAABAEA
+				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
+				lAEAAKQBAAAIAAAAAAQAAEG42SLVAAAAGAAAAAECAAAB
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
+				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
+				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
+				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
+				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
+				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
+				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
+				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
+				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
+				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
+				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
+				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
+				AAAAENAAAMgCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-19T01:02:25Z</date>
+				<key>fileSize</key>
+				<integer>67026</integer>
+				<key>md5</key>
+				<string>E26CA20EB21AD8A966400EF9EE8CBF9C</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard@2x.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9gDAAAAAAQQMAAAAMeobSpUTH1csEPK2HK+OPvA
+				qO/o4ryVr3XwVxDJn3/J4AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABsAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmRAMngu
+				cG5nACwAAAABBgAABAAAABQAAAAkAAAANAAAAEQAAABU
+				AAAAZAAAAHgAAACUAAAApAAAALgAAAAIAAAABAMAADsG
+				AgAAAAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2z
+				AAAAAAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMA
+				AAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEA
+				AAAACAAAAAQDAACf7OEBAAAAAAgAAAAEAwAATu3hAQAA
+				AAAIAAAABAMAAO637QEAAAAACAAAAAQDAAAEjvkBAAAA
+				ACwAAAABBgAAEAEAACABAAAwAQAAQAEAAFABAABgAQAA
+				cAEAAIABAACQAQAAoAEAALABAAAIAAAAAAQAAEG42SQg
+				AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1AQAADAAA
+				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABwokd0AAAA
+				CAAAAAAEAABBtjFNkgAAACQAAAABAQAAQjgwNzY0RUUt
+				N0E3Ny0zNUQzLThERkItQ0JERUM0MDVDOTc5GAAAAAEC
+				AACBAAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEA
+				AC8AAAAAAAAAAQUAAAQAAAADAwAAAAkAKMAAAAD+////
+				AQAAAAAAAAAPAAAABBAAANwAAAAAAAAABRAAAMABAAAA
+				AAAAEBAAAAQCAAAAAAAAQBAAAPQBAAAAAAAAAiAAAMAC
+				AAAAAAAAECAAAEACAAAAAAAAESAAAHQCAAAAAAAAEiAA
+				AFQCAAAAAAAAEyAAAGQCAAAAAAAAICAAAKACAAAAAAAA
+				MCAAAMwCAAAAAAAAAcAAACQCAAAAAAAAEcAAABQAAAAA
+				AAAAEsAAADQCAAAAAAAAENAAANQCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-19T01:02:10Z</date>
+				<key>fileSize</key>
+				<integer>67026</integer>
+				<key>md5</key>
+				<string>E26CA20EB21AD8A966400EF9EE8CBF9C</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/microview-breadboard.png</string>
+				<key>resourceName</key>
+				<string>microview-breadboard.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAABzHyvJT8KT2xlwACG5M/qXr
+				5zUE3D3sGxnkKkH+za1t3AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABgAAAABAQAAbWljcm92aWV3LWJyZWFkYm9hcmQucG5n
+				LAAAAAEGAAAEAAAAFAAAACQAAAA0AAAARAAAAFQAAABk
+				AAAAeAAAAJQAAACkAAAAuAAAAAgAAAAEAwAAOwYCAAAA
+				AAAIAAAABAMAAPTKBQAAAAAACAAAAAQDAADBzbMAAAAA
+				AAgAAAAEAwAACc6zAAAAAAAIAAAABAMAADvOswAAAAAA
+				CAAAAAQDAADpz7MAAAAAAAgAAAAEAwAAuLrhAQAAAAAI
+				AAAABAMAAJ/s4QEAAAAACAAAAAQDAABO7eEBAAAAAAgA
+				AAAEAwAA7rftAQAAAAAIAAAABAMAAN2N+QEAAAAALAAA
+				AAEGAAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABsAQAA
+				fAEAAIwBAACcAQAArAEAAAgAAAAABAAAQbjZJBIAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAACQAAAAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAHCiR3QAAAAIAAAA
+				AAQAAEG2MU2SAAAAJAAAAAEBAABCODA3NjRFRS03QTc3
+				LTM1RDMtOERGQi1DQkRFQzQwNUM5NzkYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAA2AAAAAAAAAAFEAAAvAEAAAAAAAAQ
+				EAAAAAIAAAAAAABAEAAA8AEAAAAAAAACIAAAvAIAAAAA
+				AAAQIAAAPAIAAAAAAAARIAAAcAIAAAAAAAASIAAAUAIA
+				AAAAAAATIAAAYAIAAAAAAAAgIAAAnAIAAAAAAAAwIAAA
+				yAIAAAAAAAABwAAAIAIAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAMAIAAAAAAAAQ0AAA0AIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-19T00:58:19Z</date>
+				<key>fileSize</key>
+				<integer>7825</integer>
+				<key>md5</key>
+				<string>ADE1E70A90776DD5C5C8BD8E66E928C8</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/pot-blackwire.png</string>
+				<key>resourceName</key>
+				<string>pot-blackwire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAANC4nTDog5Wg8Uq7nMjynPF0
+				WQZ+WykWJDWXS3eB4QW/2AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABEAAAABAQAAcG90LWJsYWNrd2lyZS5wbmcAAAAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
+				AADut+0BAAAAAAgAAAAEAwAALYz5AQAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuNkjKwAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-19T00:57:41Z</date>
+				<key>fileSize</key>
+				<integer>8381</integer>
+				<key>md5</key>
+				<string>974663D0098BFDF4B60FCC5BEBBE5D7C</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/pot-whitewire.png</string>
+				<key>resourceName</key>
+				<string>pot-whitewire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAABYIOdSQwuoMvPFht48nqxCD
+				VqgIJIUz+O6M7pEdl1bV2AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABEAAAABAQAAcG90LXdoaXRld2lyZS5wbmcAAAAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
+				AADut+0BAAAAAAgAAAAEAwAA2Iv5AQAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuNkjBQAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
@@ -3284,21 +3491,21 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3392,9 +3599,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3404,15 +3611,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>176</key>
@@ -3431,9 +3638,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3523,7 +3730,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>3 Jumper Wires&lt;div&gt;(red, black, blue)&lt;/div&gt;</string>
+							<string>3 Jumper Wires&lt;div&gt;(red, black, white)&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3563,9 +3770,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>177</key>
@@ -3578,15 +3785,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
 							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3680,9 +3887,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3692,15 +3899,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>290px</string>
 						</dict>
 					</array>
 					<key>178</key>
@@ -3713,9 +3920,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3791,9 +3998,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>10</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3803,9 +4010,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3827,9 +4034,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3848,9 +4055,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3932,9 +4139,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3944,9 +4151,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3968,9 +4175,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -4013,9 +4220,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4127,9 +4334,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -5677,7 +5884,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>4.3666667938232422</real>
+					<real>3.6666667461395264</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -5804,13 +6011,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>104</key>
@@ -6339,9 +6546,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6413,7 +6620,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your potentiometer and insert it into points B19, B20 and B21 of your breadboard.</string>
+							<string>Select your potentiometer and insert it into points D19, D20 and D21 of your breadboard.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6453,9 +6660,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 				</dict>
@@ -6614,7 +6821,7 @@
 								<key>uuid</key>
 								<string>863DD1F3-F6C1-4B21-A3FD-7E6F8DEDDC3E-68389-0002B0801F0D1FFD</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6641,7 +6848,7 @@
 								<key>uuid</key>
 								<string>1537AC9E-1D61-4B80-BBCE-EE67759F0AC3-68389-0002B08131C0E695</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6699,7 +6906,7 @@
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>65</string>
+				<string>105</string>
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
@@ -6765,9 +6972,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6839,7 +7046,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your red wire and insert it into points B19 and J9 of your breadboard.</string>
+							<string>Select your red wire and insert it into points B21 and I10 of your breadboard.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6879,9 +7086,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>168</key>
@@ -6968,7 +7175,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7091,7 +7298,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8</string>
+							<string>9</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7244,13 +7451,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>171</key>
@@ -7335,6 +7542,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>45</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>7</string>
@@ -7380,15 +7593,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>step3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7478,13 +7691,142 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>10</string>
+							<string>11</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Image</string>
+						</dict>
+					</array>
+					<key>197</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0.000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>45</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>196</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>8</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-redwire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
 						</dict>
 					</array>
 				</dict>
@@ -7583,7 +7925,69 @@
 				<array>
 					<dict>
 						<key>animations</key>
-						<array/>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>0.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>197</string>
+								<key>startTime</key>
+								<real>1</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>C95FFEAA-2FA0-4300-99AE-D948283FD90B-71428-0002CDABC7CD18FD</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>197</string>
+								<key>startTime</key>
+								<real>1.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F3230DBB-E32B-4952-AD69-2E8F9404A28B-71428-0002CDACB2737819</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
@@ -7606,7 +8010,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>197</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
@@ -7620,7 +8026,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>1</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -7673,9 +8079,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7747,7 +8153,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your black wire and insert it into points B20 and A16 of your breadboard.</string>
+							<string>Select your black wire and insert it into points B19 and A16 of your breadboard.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7787,9 +8193,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>182</key>
@@ -7876,7 +8282,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>11</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8029,13 +8435,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>184</key>
@@ -8122,7 +8528,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8245,7 +8651,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>7</string>
+							<string>9</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8288,15 +8694,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>step4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8386,13 +8792,265 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>10</string>
+							<string>12</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Image</string>
+						</dict>
+					</array>
+					<key>201</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0.000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>200</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-blackwire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
+						</dict>
+					</array>
+					<key>204</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>45</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>196</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-redwire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
 						</dict>
 					</array>
 				</dict>
@@ -8491,7 +9149,69 @@
 				<array>
 					<dict>
 						<key>animations</key>
-						<array/>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>0.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>201</string>
+								<key>startTime</key>
+								<real>1</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>AE414B7D-90D0-4A11-804A-C6498BB254B7-71428-0002CDB89875EAAC</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>201</string>
+								<key>startTime</key>
+								<real>1.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3035596B-69E1-440B-AC33-78F35EF81E78-71428-0002CDB9B42DF7EB</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
@@ -8514,7 +9234,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>201</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
@@ -8625,7 +9347,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8871,7 +9593,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>11</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9024,13 +9746,13 @@
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>192</key>
@@ -9073,9 +9795,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9147,7 +9869,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your blue wire and insert it into points B21 and A15 of your breadboard.</string>
+							<string>Select your white wire and insert it into points B20 and A15 of your breadboard.</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9187,24 +9909,24 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>195</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>step5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9294,13 +10016,382 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>10</string>
+							<string>12</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Image</string>
+						</dict>
+					</array>
+					<key>203</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-whitewire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>202</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>13</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+					</array>
+					<key>205</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>45</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>196</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>9</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-redwire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
+						</dict>
+					</array>
+					<key>206</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0.000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>126px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>462px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>204px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.33117</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>200</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>8</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>615px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>pot-blackwire</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>924px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>1230px</string>
 						</dict>
 					</array>
 				</dict>
@@ -9399,7 +10490,69 @@
 				<array>
 					<dict>
 						<key>animations</key>
-						<array/>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>0.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>206</string>
+								<key>startTime</key>
+								<real>1</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B7CA25AB-1DFA-41D1-9471-883F961C1ABA-71428-0002CDC405D7D9F6</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>206</string>
+								<key>startTime</key>
+								<real>1.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BCA50A9F-725B-420D-B408-7018A7321CE4-71428-0002CDC5541E24EB</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
@@ -9422,7 +10575,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>206</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
