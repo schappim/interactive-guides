@@ -11,8 +11,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-19T22:53:13Z</date>
+	<date>2014-03-21T22:12:36Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>300</real>
 		<key>mainWindowFrame</key>
-		<string>0 47 1436 831 0 0 1440 878 </string>
+		<string>0 47 1020 699 0 0 1024 746 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -100,7 +100,7 @@
 		<key>splitViewIsVertical</key>
 		<true/>
 		<key>splitWidth</key>
-		<real>859</real>
+		<real>450</real>
 	</dict>
 	<key>minimumSupportedBrowserVersions</key>
 	<dict>
@@ -4348,7 +4348,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1124, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -4746,9 +4746,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4860,18 +4860,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>96</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>615px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4989,9 +4989,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>615px</string>
 						</dict>
 					</array>
 					<key>99</key>
@@ -5629,7 +5629,7 @@
 				<string>96</string>
 			</array>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -5639,13 +5639,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>4.4666666984558105</real>
+					<real>5.3666667938232422</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1124, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -6025,9 +6025,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6145,9 +6145,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>65</key>
@@ -6301,9 +6301,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6415,9 +6415,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 				</dict>
@@ -6732,7 +6732,7 @@
 				<string>170</string>
 			</array>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -6742,13 +6742,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>3.0666666030883789</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1124, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -6795,9 +6795,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6909,9 +6909,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>173</key>
@@ -7041,9 +7041,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7161,9 +7161,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>175</key>
@@ -7829,11 +7829,13 @@
 			<key>oid</key>
 			<string>177</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{256, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>173</string>
+			</array>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -7849,7 +7851,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1124, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7896,9 +7898,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7970,7 +7972,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Ensure the pins of the relay&lt;div&gt;are&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;seated as shown.&lt;/span&gt;&lt;/div&gt;</string>
+							<string>TODO: Wires</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8010,9 +8012,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>184</key>
@@ -8265,9 +8267,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8385,9 +8387,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>187</key>
@@ -8741,11 +8743,11 @@
 			<key>oid</key>
 			<string>189</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{222, 0}</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 			<key>userGuides</key>
 			<array/>
 		</dict>

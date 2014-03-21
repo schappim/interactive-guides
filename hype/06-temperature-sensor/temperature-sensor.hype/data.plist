@@ -78,13 +78,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-19T04:03:22Z</date>
+	<date>2014-03-21T22:15:27Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
-		<real>255.5</real>
+		<real>255</real>
 		<key>mainWindowFrame</key>
-		<string>0 47 1436 831 0 0 1440 878 </string>
+		<string>0 47 1020 699 0 0 1024 746 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -101,7 +101,7 @@
 		<key>splitViewIsVertical</key>
 		<true/>
 		<key>splitWidth</key>
-		<real>855</real>
+		<real>450</real>
 	</dict>
 	<key>minimumSupportedBrowserVersions</key>
 	<dict>
@@ -5795,13 +5795,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>2</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -6451,9 +6451,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6565,9 +6565,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 				</dict>
@@ -6767,7 +6767,7 @@
 								<key>uuid</key>
 								<string>D1B27DE0-26B0-40CE-AA9B-32E50CD4D19C-71428-0002D7870FAC532C</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6801,7 +6801,7 @@
 								<key>uuid</key>
 								<string>FF826803-8397-41D8-A394-1755E116973E-16801-000584ABDE4A0CFE</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6828,7 +6828,7 @@
 								<key>uuid</key>
 								<string>5C426002-6B45-4645-BF9D-584A71FBA111-71428-0002D787BDB479A1</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6862,7 +6862,7 @@
 								<key>uuid</key>
 								<string>DFC20B88-9400-4AAD-99CF-E5CF8994E2F3-16801-000585018592A641</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6921,7 +6921,7 @@
 								<key>uuid</key>
 								<string>5E352D2A-9C4E-4A64-B224-A97F9BD7DFD3-16801-0005850185936453</string>
 								<key>zIndex</key>
-								<integer>5</integer>
+								<integer>7</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -6948,7 +6948,7 @@
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -6958,13 +6958,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.0</real>
+					<real>3.4666666984558105</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1118, 944}</string>
+			<string>{1064, 788}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7251,9 +7251,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7325,7 +7325,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your red wire and insert&lt;div&gt;it into points XXXX&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;of your breadboard.&lt;/span&gt;&lt;/div&gt;</string>
+							<string>TODO: Wires</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7365,9 +7365,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>174</key>
@@ -7620,15 +7620,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>step3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8040,11 +8040,11 @@
 			<key>oid</key>
 			<string>176</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 0}</string>
+			<string>{222, 0}</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>592</real>
 			<key>userGuides</key>
 			<array/>
 		</dict>
@@ -8949,8 +8949,6 @@
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -9851,8 +9849,6 @@
 			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
