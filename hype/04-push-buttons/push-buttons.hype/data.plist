@@ -11,8 +11,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>332</string>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-20T04:16:03Z</date>
+	<date>2014-03-24T23:37:41Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -4993,7 +4993,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>0.1666666716337204</real>
+					<real>2.3333332538604736</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -6018,9 +6018,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6044,7 +6044,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>598px</string>
+							<string>599px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6092,7 +6092,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Select your pushbutton and between&lt;div&gt;&amp;nbsp;points XX and YY of your breadboard.&lt;/div&gt;</string>
+							<string>Select your pushbutton and insert it&lt;div&gt;between&lt;span style="background-color: rgb(230, 230, 230);"&gt;&amp;nbsp;points XX and YY of your breadboard.&lt;/span&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6132,9 +6132,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
