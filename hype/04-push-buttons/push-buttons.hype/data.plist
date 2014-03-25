@@ -77,11 +77,11 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-24T23:37:41Z</date>
+	<date>2014-03-25T00:03:50Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
-		<real>50</real>
+		<real>300.5</real>
 		<key>mainWindowFrame</key>
 		<string>0 47 1436 831 0 0 1440 878 </string>
 		<key>openTabs</key>
@@ -124,7 +124,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>159</integer>
+	<integer>163</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -475,6 +475,30 @@
 				<key>resources</key>
 				<array>
 					<string>code.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>button</string>
+				<key>oid</key>
+				<string>160</string>
+				<key>resources</key>
+				<array>
+					<string>button.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>button-button</string>
+				<key>oid</key>
+				<string>162</string>
+				<key>resources</key>
+				<array>
+					<string>button-button.png</string>
 				</array>
 			</dict>
 		</array>
@@ -2026,6 +2050,120 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-24T23:47:06Z</date>
+				<key>fileSize</key>
+				<integer>36121</integer>
+				<key>md5</key>
+				<string>95796F74B77518F4B94E62B9B1AA2324</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/button.png</string>
+				<key>resourceName</key>
+				<string>button.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAFnLOPQ617ojchR2abcJggO3
+				uN96vklQbHsR9fSSR07CzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACgAA
+				AAEBAABidXR0b24ucG5nAAAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
+				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
+				AAAEAwAAxhQBAgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuOD7egAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-03-25T00:03:25Z</date>
+				<key>fileSize</key>
+				<integer>10704</integer>
+				<key>md5</key>
+				<string>2FB0AF6D7895CEF3DAFA846A5C9D12D1</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/button-button.png</string>
+				<key>resourceName</key>
+				<string>button-button.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAAIse9xxeW6aP16WeiqYWvqx2
+				J3qhxzqFYBykBjk2GgoP2AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABEAAAABAQAAYnV0dG9uLWJ1dHRvbi5wbmcAAAAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
+				AADut+0BAAAAAAgAAAAEAwAAuhgBAgAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuOD/TQAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneScalePercentageSize</key>
@@ -2927,187 +3065,13 @@
 				<string>kTimelineDefaultIdentifier</string>
 				<key>elements</key>
 				<dict>
-					<key>19</key>
+					<key>161</key>
 					<array>
-						<dict>
-							<key>identifier</key>
-							<string>AutoresizingMask</string>
-							<key>objectValue</key>
-							<string>109</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleRight</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleTop</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthRight</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthTop</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleLeft</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string></string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>275px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorTop</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>47</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>186px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>324px</string>
-						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleBottom</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorLeft</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>290px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>367px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorRight</string>
-							<key>objectValue</key>
-							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3117,15 +3081,99 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>186px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>275px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>160</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>366px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.05455</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>7</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>290px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderRadiusTopLeft</string>
 							<key>objectValue</key>
 							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BackgroundSize</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3135,9 +3183,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>275px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>324px</string>
+							<string>290px</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3156,9 +3216,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3288,9 +3348,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -3333,9 +3393,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3407,7 +3467,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>For this circuit you will need a photoresistor.</string>
+							<string>For this circuit you will&lt;div&gt;need a pushbutton.&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3447,9 +3507,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -3688,9 +3748,7 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>19</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
@@ -4106,9 +4164,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4220,9 +4278,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>96</key>
@@ -4993,7 +5051,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>2.3333332538604736</real>
+					<real>5.0999999046325684</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -5213,7 +5271,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>7</string>
+							<string>8</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5336,7 +5394,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8</string>
+							<string>9</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5375,13 +5433,19 @@
 							<string>615px</string>
 						</dict>
 					</array>
-					<key>109</key>
+					<key>163</key>
 					<array>
 						<dict>
 							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5433,9 +5497,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>AutoresizingMask</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>45</string>
+							<string>162</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5448,135 +5512,6 @@
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>1.33117</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>107</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>6</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>330-ohm-resistor</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-					</array>
-					<key>110</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Opacity</string>
-							<key>objectValue</key>
-							<string>0.000000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>126px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AutoresizingMask</string>
-							<key>objectValue</key>
-							<string>45</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>204px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.33117</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>106</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5606,265 +5541,19 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>330-ohm-resistor-marks</string>
+							<string>button-button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>462px</string>
+							<string>924px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-					</array>
-					<key>113</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Opacity</string>
-							<key>objectValue</key>
-							<string>0.000000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>126px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AutoresizingMask</string>
-							<key>objectValue</key>
-							<string>45</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>204px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.33117</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>112</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>b12-highlight</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-					</array>
-					<key>114</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Opacity</string>
-							<key>objectValue</key>
-							<string>0.000000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>126px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AutoresizingMask</string>
-							<key>objectValue</key>
-							<string>45</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>204px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.33117</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>111</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>5</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>615px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>b17-highlight</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>462px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>615px</string>
+							<string>1230px</string>
 						</dict>
 					</array>
 					<key>65</key>
@@ -5969,7 +5658,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6236,14 +5925,7 @@
 						<array>
 							<dict>
 								<key>duration</key>
-								<real>0.46666666865348816</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
+								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
 								<key>isRelative</key>
@@ -6270,22 +5952,22 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>3.7666666507720947</real>
+								<real>0.5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
-									<string>0.000000</string>
+									<string>1.000000</string>
 								</dict>
 								<key>identifier</key>
 								<string>Opacity</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>113</string>
+								<string>163</string>
 								<key>startTime</key>
-								<real>0.0</real>
+								<real>1</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6298,525 +5980,36 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>AE178570-2C5B-4C37-BE8C-B5E28D290B69-16801-000584E0374661E3</string>
+								<string>30B36DCF-4E26-4A77-8170-8555F580BBE6-91371-00037FEC48167E94</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>163</string>
+								<key>startTime</key>
+								<real>1.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>7D8F4979-77AF-4F44-9560-330AD998FC93-91371-00037FEDC8EA7C4C</string>
 								<key>zIndex</key>
 								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>5.2666668891906738</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B6289731-0C33-4F11-A9E2-0BB75410336E-16801-000584F3E5CEDE7B</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.233911</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>105</string>
-								<key>startTime</key>
-								<real>0.46666666865348816</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>6C9363A7-D703-490F-87B0-0FAC13725F31-16801-000584A9E5558853</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.29999995231628418</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>109</string>
-								<key>startTime</key>
-								<real>1</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>803A6982-040A-465B-B26E-526B13C6EF8E-16801-000584B10E0BD5BB</string>
-								<key>zIndex</key>
-								<integer>5</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.29999995231628418</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>110</string>
-								<key>startTime</key>
-								<real>1</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>DD741CE0-8221-4D29-9395-362CD32F3DC9-16801-000584BEA76722AD</string>
-								<key>zIndex</key>
-								<integer>6</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>6.4333333969116211</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.230000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>105</string>
-								<key>startTime</key>
-								<real>1</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.233911</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>FF826803-8397-41D8-A394-1755E116973E-16801-000584ABDE4A0CFE</string>
-								<key>zIndex</key>
-								<integer>7</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>109</string>
-								<key>startTime</key>
-								<real>1.2999999523162842</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>59342F90-EED1-4616-841C-5EEC8D25839C-16801-000584B3CF8505AE</string>
-								<key>zIndex</key>
-								<integer>8</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>110</string>
-								<key>startTime</key>
-								<real>1.2999999523162842</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1317DE35-5B90-4B6A-ACC8-0AD9934F37E8-16801-000584BEA7680362</string>
-								<key>zIndex</key>
-								<integer>9</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.23333334922790527</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>113</string>
-								<key>startTime</key>
-								<real>3.7666666507720947</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>8E70E6EB-7731-4B6E-B7D3-4878B93454AB-16801-000584DF95016A50</string>
-								<key>zIndex</key>
-								<integer>10</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>113</string>
-								<key>startTime</key>
-								<real>4</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>52D3C0E4-1818-4E5C-92B0-9F92B070D17B-16801-000584DE1D7723F1</string>
-								<key>zIndex</key>
-								<integer>11</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666688919067383</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>113</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>8EAA28C5-7B89-43EA-882C-5A02C29EBCC1-16801-000584E60147120B</string>
-								<key>zIndex</key>
-								<integer>12</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.23333311080932617</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5.2666668891906738</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>5D958066-3DC5-4AA7-AAF7-5E43E0C513B3-16801-000584F3E5CFB0D1</string>
-								<key>zIndex</key>
-								<integer>13</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>113</string>
-								<key>startTime</key>
-								<real>5.2666668891906738</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>E7D0FCE1-44E2-415E-9845-D321BCC5ECD6-16801-000584E6C91D0CA9</string>
-								<key>zIndex</key>
-								<integer>14</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>6743F6AD-E3B6-402A-AF96-BAAEEB58458C-16801-000584F3E5D04B7A</string>
-								<key>zIndex</key>
-								<integer>15</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666641235351562</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>6.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>31EC5000-33C9-430F-A2E8-2EEE7AC70325-16801-000584F3E5D0E0F9</string>
-								<key>zIndex</key>
-								<integer>16</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>6.7666664123535156</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>58D613F6-DE22-4128-9A9E-D1B5DBF4D8D5-16801-000584F3E5D15984</string>
-								<key>zIndex</key>
-								<integer>17</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>105</string>
-								<key>startTime</key>
-								<real>7.4333333969116211</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.230000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>DFC20B88-9400-4AAD-99CF-E5CF8994E2F3-16801-000585018592A641</string>
-								<key>zIndex</key>
-								<integer>18</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -6850,33 +6043,6 @@
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>105</string>
-								<key>startTime</key>
-								<real>7.9666666984558105</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>5E352D2A-9C4E-4A64-B224-A97F9BD7DFD3-16801-0005850185936453</string>
-								<key>zIndex</key>
-								<integer>19</integer>
-							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
@@ -6900,7 +6066,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>163</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 		</dict>
