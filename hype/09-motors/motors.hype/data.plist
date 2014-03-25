@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-25T04:19:39Z</date>
+	<date>2014-03-25T04:40:30Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -124,7 +124,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>231</integer>
+	<integer>241</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -571,18 +571,6 @@
 				<key>resources</key>
 				<array>
 					<string>330R.png</string>
-				</array>
-			</dict>
-			<dict>
-				<key>expanded</key>
-				<true/>
-				<key>name</key>
-				<string>diode</string>
-				<key>oid</key>
-				<string>230</string>
-				<key>resources</key>
-				<array>
-					<string>diode.png</string>
 				</array>
 			</dict>
 		</array>
@@ -2590,63 +2578,6 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-25T04:19:24Z</date>
-				<key>fileSize</key>
-				<integer>16126</integer>
-				<key>md5</key>
-				<string>279D10CA9DAC507996A66D4DD913363E</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/diode.png</string>
-				<key>resourceName</key>
-				<string>diode.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8QDAAAAAAQQMAAAAGDcBj8eRA94OTJfftY5UXYd
-				K2zjyFMwgVp9ATNYHivMzAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
-				AAEBAABkaW9kZS5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
-				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
-				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
-				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
-				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAALnoBAgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
-				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuOE7TAAAABgAAAABAgAAAQAAAAAAAAAP
-				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
-				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
-				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
-				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
-				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
-				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
-				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
-				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
-				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
-				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
-				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
-				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
-				AgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
 		</array>
 	</dict>
 	<key>sceneScalePercentageSize</key>
@@ -3596,7 +3527,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>207px</string>
+							<string>311px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3614,7 +3545,7 @@
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>272px</string>
+							<string>221px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3626,7 +3557,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>70px</string>
+							<string>140px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3650,7 +3581,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>287px</string>
+							<string>233px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3791,7 +3722,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>444px</string>
+							<string>420px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3846,159 +3777,6 @@
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-					</array>
-					<key>216</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>FontFamily</string>
-							<key>objectValue</key>
-							<string>'Droid Sans Mono'</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontWeight</string>
-							<key>objectValue</key>
-							<string>normal</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingRight</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontSize</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WordWrap</string>
-							<key>objectValue</key>
-							<string>break-word</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Text</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>251px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingBottom</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WhiteSpaceCollapsing</string>
-							<key>objectValue</key>
-							<string>preserve</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>24px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AutoresizingMask</string>
-							<key>objectValue</key>
-							<string>45</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>735px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TextAlign</string>
-							<key>objectValue</key>
-							<string>center</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string>Diode</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>217px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>10</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingTop</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Text-1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TextColor</string>
-							<key>objectValue</key>
-							<string>#434343</string>
 						</dict>
 					</array>
 					<key>218</key>
@@ -4097,7 +3875,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>729px</string>
+							<string>705px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4109,7 +3887,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Breadboard wires&lt;div&gt;(foo, bar, baz, haz)&lt;/div&gt;</string>
+							<string>Red breadboard wire</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4214,7 +3992,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>479px</string>
+							<string>532px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4250,7 +4028,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>70px</string>
+							<string>140px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4274,7 +4052,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>271px</string>
+							<string>217px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4385,7 +4163,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>729px</string>
+							<string>705px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4508,7 +4286,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>251px</string>
+							<string>255px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4544,7 +4322,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>444px</string>
+							<string>420px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4649,7 +4427,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>30px</string>
+							<string>34px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4679,7 +4457,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>444px</string>
+							<string>420px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4820,7 +4598,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>444px</string>
+							<string>420px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4883,147 +4661,6 @@
 							<string>290px</string>
 						</dict>
 					</array>
-					<key>231</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>30px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>221px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>230</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>729px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.05455</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>20</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>233px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopLeft</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>diode</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>275px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>290px</string>
-						</dict>
-					</array>
 					<key>49</key>
 					<array>
 						<dict>
@@ -5054,7 +4691,7 @@
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>36px</string>
+							<string>32px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5126,7 +4763,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>16px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5138,7 +4775,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>For this circuit you will&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;need a motor, x breadboard wires, a transistor and a diode.&lt;/span&gt;</string>
+							<string>For this circuit you will&amp;nbsp;&lt;span style="background-color: rgb(230, 230, 230);"&gt;need a motor, transistor, 330R resistor and a red breadboard wire.&lt;/span&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5150,7 +4787,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>976px</string>
+							<string>1008px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10878,7 +10515,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>186</string>
+			</array>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
@@ -11412,7 +11051,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>TODO: Wires and diode and resistor</string>
+							<string>&lt;span style="color: rgb(67, 67, 67); font-family: 'Droid Sans Mono'; font-size: 36px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 48px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(230, 230, 230);"&gt;Select your 330R resistor and insert it as shown into pins B12 and B16 o&lt;/span&gt;&lt;span style="color: rgb(67, 67, 67); font-size: 36px; font-family: 'Droid Sans Mono'; font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; line-height: 48px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(230, 230, 230);"&gt;f your breadboard.&lt;/span&gt;&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12173,9 +11812,7 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>213</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
 			<key>userGuides</key>
@@ -12195,7 +11832,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1064, 788}</string>
+			<string>{1133, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -12323,15 +11960,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>IFrameURL</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string></string>
+							<string>606px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>992px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12454,15 +12091,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>IFrameURL</string>
 							<key>objectValue</key>
-							<string>606px</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>992px</string>
 						</dict>
 					</array>
 				</dict>
@@ -12588,7 +12225,7 @@
 				<string>141</string>
 			</array>
 			<key>splitHeight</key>
-			<real>592</real>
+			<real>724</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
