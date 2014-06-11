@@ -7,12 +7,12 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>138</string>
+	<string>6</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>338</string>
@@ -77,13 +77,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-06-08T10:24:58Z</date>
+	<date>2014-06-11T00:25:59Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>253</real>
 		<key>mainWindowFrame</key>
-		<string>1 88 1436 790 0 0 1440 878 </string>
+		<string>268 88 1168 790 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -106,7 +106,7 @@
 		<key>splitViewIsVertical</key>
 		<true/>
 		<key>splitWidth</key>
-		<real>866</real>
+		<real>598</real>
 	</dict>
 	<key>minimumSupportedBrowserVersions</key>
 	<dict>
@@ -1867,462 +1867,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T23:54:35Z</date>
-				<key>fileSize</key>
-				<integer>29775</integer>
-				<key>md5</key>
-				<string>70E79564426F9F767B83EA20124647BD</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/motor.png</string>
-				<key>resourceName</key>
-				<string>motor.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8QDAAAAAAQQMAAAAPHt/w9WxCfqhIxlOTPumuHR
-				/X/xNUPwwt+LUCSBvZDPzAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
-				AAEBAABtb3Rvci5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
-				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
-				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
-				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
-				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAA0vjwAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
-				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuNErOwAAABgAAAABAgAAAQAAAAAAAAAP
-				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
-				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
-				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
-				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
-				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
-				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
-				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
-				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
-				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
-				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
-				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
-				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
-				AgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-20T01:34:23Z</date>
-				<key>fileSize</key>
-				<integer>7795</integer>
-				<key>md5</key>
-				<string>040B9CFF2BF21E82EDEC0AA51C9183D0</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-motor.png</string>
-				<key>resourceName</key>
-				<string>motor-motor.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8wDAAAAAAQQMAAAAHj3kVvRP/2h2RFULcS9YiyB
-				GGkiFN60I9g2bdotb4kI1AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				AA8AAAABAQAAbW90b3ItbW90b3IucG5nACwAAAABBgAA
-				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
-				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
-				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
-				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
-				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
-				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
-				7QEAAAAACAAAAAQDAABX0fsBAAAAACwAAAABBgAABAEA
-				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
-				lAEAAKQBAAAIAAAAAAQAAEG42n0eAAAAGAAAAAECAAAB
-				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
-				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
-				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
-				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
-				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
-				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
-				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
-				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
-				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
-				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
-				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
-				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
-				AAAAENAAAMgCAAAAAAAA
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-20T01:35:13Z</date>
-				<key>fileSize</key>
-				<integer>12211</integer>
-				<key>md5</key>
-				<string>CB34446F35A363711DFBC6C3725D138A</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-redwire.png</string>
-				<key>resourceName</key>
-				<string>motor-redwire.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9ADAAAAAAQQMAAAALe8D4KFYZmgIvhIiChU8qM/
-				1l5cyZo2RIVN00bKjg4G2AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABEAAAABAQAAbW90b3ItcmVkd2lyZS5wbmcAAAAsAAAA
-				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
-				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
-				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
-				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
-				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAwtH7AQAAAAAsAAAAAQYA
-				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuNp9UQAAABgAAAAB
-				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
-				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
-				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
-				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
-				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
-				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
-				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
-				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
-				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
-				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
-				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
-				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
-				AgAAAAAAABDQAADMAgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-20T01:36:06Z</date>
-				<key>fileSize</key>
-				<integer>15428</integer>
-				<key>md5</key>
-				<string>07BBF3D403318F0C4BDB9D30D2104B95</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-blackwire.png</string>
-				<key>resourceName</key>
-				<string>motor-blackwire.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9ADAAAAAAQQMAAAAJun63Uxa7eZ+qOvujJwmNBX
-				NvXzDMYi13hHaZkItEN02AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABMAAAABAQAAbW90b3ItYmxhY2t3aXJlLnBuZwAsAAAA
-				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
-				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
-				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
-				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
-				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAHNL7AQAAAAAsAAAAAQYA
-				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuNp9hgAAABgAAAAB
-				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
-				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
-				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
-				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
-				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
-				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
-				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
-				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
-				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
-				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
-				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
-				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
-				AgAAAAAAABDQAADMAgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-25T03:35:15Z</date>
-				<key>fileSize</key>
-				<integer>5735</integer>
-				<key>md5</key>
-				<string>21CC5D97F2940CEA54A13E5C46B3B904</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-transistor.png</string>
-				<key>resourceName</key>
-				<string>motor-transistor.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9ADAAAAAAQQMAAAAEW1hAmg8feIl67sgE3Gp56g
-				IPFvPDw5IulQ4WgrI5zX2AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABQAAAABAQAAbW90b3ItdHJhbnNpc3Rvci5wbmcsAAAA
-				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
-				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
-				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
-				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
-				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAA8GYBAgAAAAAsAAAAAQYA
-				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuOEw8wAAABgAAAAB
-				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
-				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
-				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
-				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
-				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
-				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
-				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
-				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
-				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
-				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
-				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
-				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
-				AgAAAAAAABDQAADMAgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-19T22:52:43Z</date>
-				<key>fileSize</key>
-				<integer>15711</integer>
-				<key>md5</key>
-				<string>DA6FF7676A487C71B50F2CC02A6256F2</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/wires.png</string>
-				<key>resourceName</key>
-				<string>wires.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8QDAAAAAAQQMAAAACPPTodYN3a6WYGc3sLslTX+
-				PlKNbzzz9PPu2lcuz9k+zAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
-				AAEBAAB3aXJlcy5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
-				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
-				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
-				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
-				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAAuan7AQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
-				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuNpXOwAAABgAAAABAgAAAQAAAAAAAAAP
-				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
-				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
-				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
-				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
-				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
-				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
-				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
-				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
-				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
-				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
-				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
-				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
-				AgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-25T03:59:06Z</date>
-				<key>fileSize</key>
-				<integer>30302</integer>
-				<key>md5</key>
-				<string>583DDA6AFE37167BBBF45D308E856642</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/transistor.png</string>
-				<key>resourceName</key>
-				<string>transistor.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8gDAAAAAAQQMAAAAJvnxg+gy+UA3vh0facN//Hr
-				9GZJiI0I/RnVQjK4c9f80AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAADgAA
-				AAEBAAB0cmFuc2lzdG9yLnBuZwAALAAAAAEGAAAEAAAA
-				FAAAACQAAAA0AAAARAAAAFQAAABkAAAAeAAAAJQAAACk
-				AAAAtAAAAAgAAAAEAwAAOwYCAAAAAAAIAAAABAMAAPTK
-				BQAAAAAACAAAAAQDAADBzbMAAAAAAAgAAAAEAwAACc6z
-				AAAAAAAIAAAABAMAADvOswAAAAAACAAAAAQDAADpz7MA
-				AAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAJ/s4QEA
-				AAAACAAAAAQDAABO7eEBAAAAAAgAAAAEAwAA7LjtAQAA
-				AAAIAAAABAMAAEByAQIAAAAALAAAAAEGAAAAAQAAEAEA
-				ACABAAAwAQAAQAEAAFABAABgAQAAcAEAAIABAACQAQAA
-				oAEAAAgAAAAABAAAQbjhNooAAAAYAAAAAQIAAAEAAAAA
-				AAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAACQAAAAAA
-				AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
-				RAgAAAAEAwAAAHCiR3QAAAAIAAAAAAQAAEG2MU2SAAAA
-				JAAAAAEBAABCODA3NjRFRS03QTc3LTM1RDMtOERGQi1D
-				QkRFQzQwNUM5NzkYAAAAAQIAAIEAAAABAAgA7xcAAAEA
-				CAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAABAAA
-				AAMDAAAACQAowAAAAP7///8BAAAAAAAAAA8AAAAEEAAA
-				zAAAAAAAAAAFEAAAsAEAAAAAAAAQEAAA9AEAAAAAAABA
-				EAAA5AEAAAAAAAACIAAAsAIAAAAAAAAQIAAAMAIAAAAA
-				AAARIAAAZAIAAAAAAAASIAAARAIAAAAAAAATIAAAVAIA
-				AAAAAAAgIAAAkAIAAAAAAAAwIAAAvAIAAAAAAAABwAAA
-				FAIAAAAAAAARwAAAFAAAAAAAAAASwAAAJAIAAAAAAAAQ
-				0AAAxAIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-13T00:02:04Z</date>
-				<key>fileSize</key>
-				<integer>15933</integer>
-				<key>md5</key>
-				<string>348E1271CC225209EF6B0CFF6186EC1C</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/330R.png</string>
-				<key>resourceName</key>
-				<string>330R.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8ADAAAAAAQQMAAAAGaOJFTlWoRYbEMxxT5WZX4G
-				jJ7M+7N/+DK8kdpanvAYyAIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACAAA
-				AAEBAAAzMzBSLnBuZywAAAABBgAABAAAABQAAAAkAAAA
-				NAAAAEQAAABUAAAAZAAAAHgAAACUAAAApAAAALQAAAAI
-				AAAABAMAADsGAgAAAAAACAAAAAQDAAD0ygUAAAAAAAgA
-				AAAEAwAAwc2zAAAAAAAIAAAABAMAAAnOswAAAAAACAAA
-				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
-				BAMAALi64QEAAAAACAAAAAQDAACf7OEBAAAAAAgAAAAE
-				AwAATu3hAQAAAAAIAAAABAMAAOy47QEAAAAACAAAAAQD
-				AADv//ABAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
-				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
-				AAQAAEG40Sz8AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
-				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
-				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
-				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
-				QjgwNzY0RUUtN0E3Ny0zNUQzLThERkItQ0JERUM0MDVD
-				OTc5GAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAAAAAA
-				AAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAkA
-				KMAAAAD+////AQAAAAAAAAAPAAAABBAAAMQAAAAAAAAA
-				BRAAAKgBAAAAAAAAEBAAAOwBAAAAAAAAQBAAANwBAAAA
-				AAAAAiAAAKgCAAAAAAAAECAAACgCAAAAAAAAESAAAFwC
-				AAAAAAAAEiAAADwCAAAAAAAAEyAAAEwCAAAAAAAAICAA
-				AIgCAAAAAAAAMCAAALQCAAAAAAAAAcAAAAwCAAAAAAAA
-				EcAAABQAAAAAAAAAEsAAABwCAAAAAAAAENAAALwCAAAA
-				AAAA
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2014-02-28T00:20:16Z</date>
 				<key>fileSize</key>
 				<integer>3222</integer>
@@ -3860,6 +3404,462 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
+				<key>fileSize</key>
+				<integer>29775</integer>
+				<key>md5</key>
+				<string>70E79564426F9F767B83EA20124647BD</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/motor.png</string>
+				<key>resourceName</key>
+				<string>motor.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAAJZrHdrcre+Z3WlKo7hhgFgK
+				TwJTisBKVU5kwFxzyjXPzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
+				AAEBAABtb3Rvci5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAADMM5AgAAAAAI
+				AAAABAMAAIveOQIAAAAACAAAAAQDAAD93jkCAAAAAAgA
+				AAAEAwAADN85AgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuUfSvwAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:46Z</date>
+				<key>fileSize</key>
+				<integer>7795</integer>
+				<key>md5</key>
+				<string>040B9CFF2BF21E82EDEC0AA51C9183D0</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-motor.png</string>
+				<key>resourceName</key>
+				<string>motor-motor.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8wDAAAAAAQQMAAAAEeX+HJ7BnXCYos17QpRegbt
+				c1cqezF4E5pqCUwTqrMl1AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				AA8AAAABAQAAbW90b3ItbW90b3IucG5nACwAAAABBgAA
+				BAAAABQAAAAkAAAANAAAAEQAAABUAAAAZAAAAHgAAACU
+				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
+				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
+				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
+				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAAAM
+				wzkCAAAAAAgAAAAEAwAAi945AgAAAAAIAAAABAMAAJne
+				OQIAAAAACAAAAAQDAAC53jkCAAAAACwAAAABBgAABAEA
+				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
+				lAEAAKQBAAAIAAAAAAQAAEG5R9K+AAAAGAAAAAECAAAB
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
+				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
+				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
+				kgAAACQAAAABAQAAQjgwNzY0RUUtN0E3Ny0zNUQzLThE
+				RkItQ0JERUM0MDVDOTc5GAAAAAECAACBAAAAAQAIAO8X
+				AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUA
+				AAQAAAADAwAAAAkAKMAAAAD+////AQAAAAAAAAAPAAAA
+				BBAAANAAAAAAAAAABRAAALQBAAAAAAAAEBAAAPgBAAAA
+				AAAAQBAAAOgBAAAAAAAAAiAAALQCAAAAAAAAECAAADQC
+				AAAAAAAAESAAAGgCAAAAAAAAEiAAAEgCAAAAAAAAEyAA
+				AFgCAAAAAAAAICAAAJQCAAAAAAAAMCAAAMACAAAAAAAA
+				AcAAABgCAAAAAAAAEcAAABQAAAAAAAAAEsAAACgCAAAA
+				AAAAENAAAMgCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:46Z</date>
+				<key>fileSize</key>
+				<integer>12211</integer>
+				<key>md5</key>
+				<string>CB34446F35A363711DFBC6C3725D138A</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-redwire.png</string>
+				<key>resourceName</key>
+				<string>motor-redwire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAAF9s1zb+2aLWnT4R/LFiHMr4
+				gucwe7sOxULIW/Bw0OV62AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABEAAAABAQAAbW90b3ItcmVkd2lyZS5wbmcAAAAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAu945AgAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:46Z</date>
+				<key>fileSize</key>
+				<integer>15428</integer>
+				<key>md5</key>
+				<string>07BBF3D403318F0C4BDB9D30D2104B95</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-blackwire.png</string>
+				<key>resourceName</key>
+				<string>motor-blackwire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAAIJnirjtdSi92gtqZgyex9fY
+				A42VSkoGieVMhQAY1xMH2AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABMAAAABAQAAbW90b3ItYmxhY2t3aXJlLnBuZwAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAtt45AgAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:46Z</date>
+				<key>fileSize</key>
+				<integer>5735</integer>
+				<key>md5</key>
+				<string>21CC5D97F2940CEA54A13E5C46B3B904</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-transistor.png</string>
+				<key>resourceName</key>
+				<string>motor-transistor.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAAJO9timFMeIGGquG8mSlPWdi
+				nOeproVXwQ41CDZgvhM52AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABQAAAABAQAAbW90b3ItdHJhbnNpc3Rvci5wbmcsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAvd45AgAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
+				<key>fileSize</key>
+				<integer>15711</integer>
+				<key>md5</key>
+				<string>DA6FF7676A487C71B50F2CC02A6256F2</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/wires.png</string>
+				<key>resourceName</key>
+				<string>wires.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8QDAAAAAAQQMAAAACw+cQUjQLdG++/U0M7KQbJH
+				k5/pnFYrftLbCwM+WRLnzAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACQAA
+				AAEBAAB3aXJlcy5wbmcAAAAsAAAAAQYAAAQAAAAUAAAA
+				JAAAADQAAABEAAAAVAAAAGQAAAB4AAAAlAAAAKQAAAC0
+				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
+				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
+				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAADMM5AgAAAAAI
+				AAAABAMAAIveOQIAAAAACAAAAAQDAAD93jkCAAAAAAgA
+				AAAEAwAAGd85AgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
+				CAAAAAAEAABBuUfSvwAAABgAAAABAgAAAQAAAAAAAAAP
+				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
+				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
+				AQEAAEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVD
+				NDA1Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMA
+				AAAJACjAAAAA/v///wEAAAAAAAAADwAAAAQQAADIAAAA
+				AAAAAAUQAACsAQAAAAAAABAQAADwAQAAAAAAAEAQAADg
+				AQAAAAAAAAIgAACsAgAAAAAAABAgAAAsAgAAAAAAABEg
+				AABgAgAAAAAAABIgAABAAgAAAAAAABMgAABQAgAAAAAA
+				ACAgAACMAgAAAAAAADAgAAC4AgAAAAAAAAHAAAAQAgAA
+				AAAAABHAAAAUAAAAAAAAABLAAAAgAgAAAAAAABDQAADA
+				AgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
+				<key>fileSize</key>
+				<integer>30302</integer>
+				<key>md5</key>
+				<string>583DDA6AFE37167BBBF45D308E856642</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/transistor.png</string>
+				<key>resourceName</key>
+				<string>transistor.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8gDAAAAAAQQMAAAAO2ph56w7qCngzl4AhIi4plt
+				Rak0Bc+eAYuIwnlhFGLp0AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAADgAA
+				AAEBAAB0cmFuc2lzdG9yLnBuZwAALAAAAAEGAAAEAAAA
+				FAAAACQAAAA0AAAARAAAAFQAAABkAAAAeAAAAJQAAACk
+				AAAAtAAAAAgAAAAEAwAAOwYCAAAAAAAIAAAABAMAAPTK
+				BQAAAAAACAAAAAQDAADBzbMAAAAAAAgAAAAEAwAACc6z
+				AAAAAAAIAAAABAMAADvOswAAAAAACAAAAAQDAADpz7MA
+				AAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAAzDOQIA
+				AAAACAAAAAQDAACL3jkCAAAAAAgAAAAEAwAA/d45AgAA
+				AAAIAAAABAMAABffOQIAAAAALAAAAAEGAAAAAQAAEAEA
+				ACABAAAwAQAAQAEAAFABAABgAQAAcAEAAIABAACQAQAA
+				oAEAAAgAAAAABAAAQblH0r8AAAAYAAAAAQIAAAEAAAAA
+				AAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAACQAAAAAA
+				AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+				RAgAAAAEAwAAAHCiR3QAAAAIAAAAAAQAAEG2MU2SAAAA
+				JAAAAAEBAABCODA3NjRFRS03QTc3LTM1RDMtOERGQi1D
+				QkRFQzQwNUM5NzkYAAAAAQIAAIEAAAABAAgA7xcAAAEA
+				CAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAABAAA
+				AAMDAAAACQAowAAAAP7///8BAAAAAAAAAA8AAAAEEAAA
+				zAAAAAAAAAAFEAAAsAEAAAAAAAAQEAAA9AEAAAAAAABA
+				EAAA5AEAAAAAAAACIAAAsAIAAAAAAAAQIAAAMAIAAAAA
+				AAARIAAAZAIAAAAAAAASIAAARAIAAAAAAAATIAAAVAIA
+				AAAAAAAgIAAAkAIAAAAAAAAwIAAAvAIAAAAAAAABwAAA
+				FAIAAAAAAAARwAAAFAAAAAAAAAASwAAAJAIAAAAAAAAQ
+				0AAAxAIAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
+				<key>fileSize</key>
+				<integer>15933</integer>
+				<key>md5</key>
+				<string>348E1271CC225209EF6B0CFF6186EC1C</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Parts/330R.png</string>
+				<key>resourceName</key>
+				<string>330R.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8ADAAAAAAQQMAAAAGrOSBvroV5kaMWYDtZTPb81
+				5ul+EE3rxkx/Gjd0E7MQyAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAFAAAAAQEAAFBhcnRzAAAACAAA
+				AAEBAAAzMzBSLnBuZywAAAABBgAABAAAABQAAAAkAAAA
+				NAAAAEQAAABUAAAAZAAAAHgAAACUAAAApAAAALQAAAAI
+				AAAABAMAADsGAgAAAAAACAAAAAQDAAD0ygUAAAAAAAgA
+				AAAEAwAAwc2zAAAAAAAIAAAABAMAAAnOswAAAAAACAAA
+				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
+				BAMAALi64QEAAAAACAAAAAQDAAAMwzkCAAAAAAgAAAAE
+				AwAAi945AgAAAAAIAAAABAMAAP3eOQIAAAAACAAAAAQD
+				AAAA3zkCAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
+				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
+				AAQAAEG5R9K/AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
+				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
+				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
+				QjgwNzY0RUUtN0E3Ny0zNUQzLThERkItQ0JERUM0MDVD
+				OTc5GAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAkA
+				KMAAAAD+////AQAAAAAAAAAPAAAABBAAAMQAAAAAAAAA
+				BRAAAKgBAAAAAAAAEBAAAOwBAAAAAAAAQBAAANwBAAAA
+				AAAAAiAAAKgCAAAAAAAAECAAACgCAAAAAAAAESAAAFwC
+				AAAAAAAAEiAAADwCAAAAAAAAEyAAAEwCAAAAAAAAICAA
+				AIgCAAAAAAAAMCAAALQCAAAAAAAAAcAAAAwCAAAAAAAA
+				EcAAABQAAAAAAAAAEsAAABwCAAAAAAAAENAAALwCAAAA
+				AAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneScalePercentageSize</key>
@@ -3882,7 +3882,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 944}</string>
+			<string>{1133, 889}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -4473,9 +4473,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1024px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4599,9 +4599,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1024px</string>
 						</dict>
 					</array>
 					<key>4</key>
@@ -4614,9 +4614,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#45537D</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4770,9 +4770,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#45537D</string>
 						</dict>
 					</array>
 				</dict>
@@ -5129,7 +5129,7 @@
 				<string>3</string>
 			</array>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>683</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -5145,7 +5145,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 944}</string>
+			<string>{1133, 889}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -5315,9 +5315,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5429,9 +5429,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>251</key>
@@ -5672,7 +5672,7 @@
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>683</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -5688,7 +5688,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 894}</string>
+			<string>{1064, 889}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -5699,21 +5699,21 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>motor</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5825,21 +5825,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>motor</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>290px</string>
 						</dict>
 					</array>
 					<key>214</key>
@@ -5858,9 +5858,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5990,9 +5990,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>218</key>
@@ -6011,9 +6011,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6143,9 +6143,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -6164,9 +6164,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6296,30 +6296,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>221</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>wires</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6425,27 +6425,27 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>wires</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>275px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>223</key>
@@ -6464,9 +6464,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6596,30 +6596,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>227</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>transistor</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6713,37 +6713,16 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
-							<string>transistor</string>
+							<string>10px</string>
 						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>275px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>290px</string>
-						</dict>
-					</array>
-					<key>229</key>
-					<array>
 						<dict>
 							<key>identifier</key>
 							<string>BorderRadiusBottomRight</string>
@@ -6761,6 +6740,27 @@
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+					</array>
+					<key>229</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>330R</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>275px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6854,33 +6854,33 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
-							<string>330R</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -6923,9 +6923,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7037,9 +7037,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -7288,7 +7288,7 @@
 				<string>8</string>
 			</array>
 			<key>splitHeight</key>
-			<real>687</real>
+			<real>683</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -7304,7 +7304,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 894}</string>
+			<string>{1133, 889}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -7555,9 +7555,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>287px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7603,9 +7603,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
+							<string>AutoresizingMask</string>
 							<key>objectValue</key>
-							<string>98px</string>
+							<string>36</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7621,15 +7621,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
+							<string>Height</string>
 							<key>objectValue</key>
-							<string>266</string>
+							<string>98px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>AutoresizingMask</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>36</string>
+							<string>266</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7675,9 +7675,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>287px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>85</key>
@@ -7720,9 +7720,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7834,9 +7834,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>96</key>
@@ -8597,7 +8597,7 @@
 				<string>268</string>
 			</array>
 			<key>splitHeight</key>
-			<real>687</real>
+			<real>683</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -15177,9 +15177,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#73528F</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15261,9 +15261,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15273,9 +15273,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15297,9 +15297,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#73528F</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>243</key>
@@ -16013,7 +16013,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 944}</string>
+			<string>{1133, 889}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -16141,9 +16141,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16261,18 +16261,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>100px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>38</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16390,18 +16390,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>100px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>40</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16519,9 +16519,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>100px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>41</key>
@@ -16564,9 +16564,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16672,9 +16672,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>42</key>
@@ -16717,9 +16717,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16825,9 +16825,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>43</key>
@@ -16870,9 +16870,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16978,18 +16978,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>93</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -17133,9 +17133,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 					</array>
 				</dict>
@@ -17292,7 +17292,7 @@
 				<string>34</string>
 			</array>
 			<key>splitHeight</key>
-			<real>724</real>
+			<real>683</real>
 		</dict>
 	</array>
 	<key>scripts</key>

@@ -11,11 +11,11 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
-	<string>332</string>
+	<string>338</string>
 	<key>documentationVerticalSplitViewPosition</key>
 	<real>310</real>
 	<key>drawSceneBackgrounds</key>
@@ -77,7 +77,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-03-25T04:40:30Z</date>
+	<date>2014-06-11T00:25:51Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -2124,7 +2124,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-12T23:54:35Z</date>
+				<date>2014-06-10T23:56:47Z</date>
 				<key>fileSize</key>
 				<integer>29775</integer>
 				<key>md5</key>
@@ -2137,8 +2137,8 @@
 				<string>motor.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8QDAAAAAAQQMAAAAPHt/w9WxCfqhIxlOTPumuHR
-				/X/xNUPwwt+LUCSBvZDPzAIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8QDAAAAAAQQMAAAAJZrHdrcre+Z3WlKo7hhgFgK
+				TwJTisBKVU5kwFxzyjXPzAIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2149,11 +2149,11 @@
 				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
 				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
 				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAA0vjwAQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAADMM5AgAAAAAI
+				AAAABAMAAIveOQIAAAAACAAAAAQDAAD93jkCAAAAAAgA
+				AAAEAwAADN85AgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
 				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuNErOwAAABgAAAABAgAAAQAAAAAAAAAP
+				CAAAAAAEAABBuUfSvwAAABgAAAABAgAAAQAAAAAAAAAP
 				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
 				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
 				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
@@ -2181,7 +2181,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-20T01:34:23Z</date>
+				<date>2014-06-10T23:56:46Z</date>
 				<key>fileSize</key>
 				<integer>7795</integer>
 				<key>md5</key>
@@ -2194,8 +2194,8 @@
 				<string>motor-motor.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8wDAAAAAAQQMAAAAHj3kVvRP/2h2RFULcS9YiyB
-				GGkiFN60I9g2bdotb4kI1AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8wDAAAAAAQQMAAAAEeX+HJ7BnXCYos17QpRegbt
+				c1cqezF4E5pqCUwTqrMl1AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2206,11 +2206,11 @@
 				AAAApAAAALgAAAAIAAAABAMAADsGAgAAAAAACAAAAAQD
 				AAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAAAAAIAAAABAMA
 				AAnOswAAAAAACAAAAAQDAAA7zrMAAAAAAAgAAAAEAwAA
-				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAACf
-				7OEBAAAAAAgAAAAEAwAATu3hAQAAAAAIAAAABAMAAO63
-				7QEAAAAACAAAAAQDAABX0fsBAAAAACwAAAABBgAABAEA
+				6c+zAAAAAAAIAAAABAMAALi64QEAAAAACAAAAAQDAAAM
+				wzkCAAAAAAgAAAAEAwAAi945AgAAAAAIAAAABAMAAJne
+				OQIAAAAACAAAAAQDAAC53jkCAAAAACwAAAABBgAABAEA
 				ABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAA
-				lAEAAKQBAAAIAAAAAAQAAEG42n0eAAAAGAAAAAECAAAB
+				lAEAAKQBAAAIAAAAAAQAAEG5R9K+AAAAGAAAAAECAAAB
 				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAkA
 				AAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRv
 				c2ggSEQIAAAABAMAAABwokd0AAAACAAAAAAEAABBtjFN
@@ -2238,7 +2238,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-20T01:35:13Z</date>
+				<date>2014-06-10T23:56:46Z</date>
 				<key>fileSize</key>
 				<integer>12211</integer>
 				<key>md5</key>
@@ -2251,8 +2251,8 @@
 				<string>motor-redwire.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va9ADAAAAAAQQMAAAALe8D4KFYZmgIvhIiChU8qM/
-				1l5cyZo2RIVN00bKjg4G2AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va9ADAAAAAAQQMAAAAF9s1zb+2aLWnT4R/LFiHMr4
+				gucwe7sOxULIW/Bw0OV62AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2264,10 +2264,10 @@
 				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
 				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
 				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAwtH7AQAAAAAsAAAAAQYA
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAu945AgAAAAAsAAAAAQYA
 				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuNp9UQAAABgAAAAB
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
 				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
 				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
 				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
@@ -2295,64 +2295,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-20T01:36:06Z</date>
-				<key>fileSize</key>
-				<integer>15428</integer>
-				<key>md5</key>
-				<string>07BBF3D403318F0C4BDB9D30D2104B95</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-blackwire.png</string>
-				<key>resourceName</key>
-				<string>motor-blackwire.png</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va9ADAAAAAAQQMAAAAJun63Uxa7eZ+qOvujJwmNBX
-				NvXzDMYi13hHaZkItEN02AIAAAUAAAABAQAAVXNlcnMA
-				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
-				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
-				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
-				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
-				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
-				ABMAAAABAQAAbW90b3ItYmxhY2t3aXJlLnBuZwAsAAAA
-				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
-				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
-				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
-				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
-				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAAHNL7AQAAAAAsAAAAAQYA
-				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuNp9hgAAABgAAAAB
-				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
-				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
-				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
-				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
-				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
-				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
-				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
-				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
-				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
-				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
-				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
-				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
-				AgAAAAAAABDQAADMAgAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-03-25T03:35:15Z</date>
+				<date>2014-06-10T23:56:46Z</date>
 				<key>fileSize</key>
 				<integer>5735</integer>
 				<key>md5</key>
@@ -2365,8 +2308,8 @@
 				<string>motor-transistor.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va9ADAAAAAAQQMAAAAEW1hAmg8feIl67sgE3Gp56g
-				IPFvPDw5IulQ4WgrI5zX2AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va9ADAAAAAAQQMAAAAJO9timFMeIGGquG8mSlPWdi
+				nOeproVXwQ41CDZgvhM52AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2378,10 +2321,10 @@
 				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
 				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
 				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
-				AwAAn+zhAQAAAAAIAAAABAMAAE7t4QEAAAAACAAAAAQD
-				AADut+0BAAAAAAgAAAAEAwAA8GYBAgAAAAAsAAAAAQYA
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAvd45AgAAAAAsAAAAAQYA
 				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
-				iAEAAJgBAACoAQAACAAAAAAEAABBuOEw8wAAABgAAAAB
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
 				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
 				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
 				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
@@ -2409,7 +2352,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-19T22:52:43Z</date>
+				<date>2014-06-10T23:56:47Z</date>
 				<key>fileSize</key>
 				<integer>15711</integer>
 				<key>md5</key>
@@ -2422,8 +2365,8 @@
 				<string>wires.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8QDAAAAAAQQMAAAACPPTodYN3a6WYGc3sLslTX+
-				PlKNbzzz9PPu2lcuz9k+zAIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8QDAAAAAAQQMAAAACw+cQUjQLdG++/U0M7KQbJH
+				k5/pnFYrftLbCwM+WRLnzAIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2434,11 +2377,11 @@
 				AAAACAAAAAQDAAA7BgIAAAAAAAgAAAAEAwAA9MoFAAAA
 				AAAIAAAABAMAAMHNswAAAAAACAAAAAQDAAAJzrMAAAAA
 				AAgAAAAEAwAAO86zAAAAAAAIAAAABAMAAOnPswAAAAAA
-				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAAn+zhAQAAAAAI
-				AAAABAMAAE7t4QEAAAAACAAAAAQDAADsuO0BAAAAAAgA
-				AAAEAwAAuan7AQAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
+				CAAAAAQDAAC4uuEBAAAAAAgAAAAEAwAADMM5AgAAAAAI
+				AAAABAMAAIveOQIAAAAACAAAAAQDAAD93jkCAAAAAAgA
+				AAAEAwAAGd85AgAAAAAsAAAAAQYAAPwAAAAMAQAAHAEA
 				ACwBAAA8AQAATAEAAFwBAABsAQAAfAEAAIwBAACcAQAA
-				CAAAAAAEAABBuNpXOwAAABgAAAABAgAAAQAAAAAAAAAP
+				CAAAAAAEAABBuUfSvwAAABgAAAABAgAAAQAAAAAAAAAP
 				AAAAAAAAAAAAAAAAAAAACAAAAAQDAAAJAAAAAAAAAAQA
 				AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAA
 				AAQDAAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAA
@@ -2466,7 +2409,64 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-25T03:59:06Z</date>
+				<date>2014-06-10T23:56:46Z</date>
+				<key>fileSize</key>
+				<integer>15428</integer>
+				<key>md5</key>
+				<string>07BBF3D403318F0C4BDB9D30D2104B95</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/Breadboard/motor-blackwire.png</string>
+				<key>resourceName</key>
+				<string>motor-blackwire.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va9ADAAAAAAQQMAAAAIJnirjtdSi92gtqZgyex9fY
+				A42VSkoGieVMhQAY1xMH2AIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAKAAAAAQEAAEJyZWFkYm9hcmQA
+				ABMAAAABAQAAbW90b3ItYmxhY2t3aXJlLnBuZwAsAAAA
+				AQYAAAQAAAAUAAAAJAAAADQAAABEAAAAVAAAAGQAAAB4
+				AAAAlAAAAKQAAAC4AAAACAAAAAQDAAA7BgIAAAAAAAgA
+				AAAEAwAA9MoFAAAAAAAIAAAABAMAAMHNswAAAAAACAAA
+				AAQDAAAJzrMAAAAAAAgAAAAEAwAAO86zAAAAAAAIAAAA
+				BAMAAOnPswAAAAAACAAAAAQDAAC4uuEBAAAAAAgAAAAE
+				AwAADMM5AgAAAAAIAAAABAMAAIveOQIAAAAACAAAAAQD
+				AACZ3jkCAAAAAAgAAAAEAwAAtt45AgAAAAAsAAAAAQYA
+				AAgBAAAYAQAAKAEAADgBAABIAQAAWAEAAGgBAAB4AQAA
+				iAEAAJgBAACoAQAACAAAAAAEAABBuUfSvgAAABgAAAAB
+				AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAAJAAAAAAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFj
+				aW50b3NoIEhECAAAAAQDAAAAcKJHdAAAAAgAAAAABAAA
+				QbYxTZIAAAAkAAAAAQEAAEI4MDc2NEVFLTdBNzctMzVE
+				My04REZCLUNCREVDNDA1Qzk3ORgAAAABAgAAgQAAAAEA
+				CADvFwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+				AAEFAAAEAAAAAwMAAAAJACjAAAAA/v///wEAAAAAAAAA
+				DwAAAAQQAADUAAAAAAAAAAUQAAC4AQAAAAAAABAQAAD8
+				AQAAAAAAAEAQAADsAQAAAAAAAAIgAAC4AgAAAAAAABAg
+				AAA4AgAAAAAAABEgAABsAgAAAAAAABIgAABMAgAAAAAA
+				ABMgAABcAgAAAAAAACAgAACYAgAAAAAAADAgAADEAgAA
+				AAAAAAHAAAAcAgAAAAAAABHAAAAUAAAAAAAAABLAAAAs
+				AgAAAAAAABDQAADMAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
 				<key>fileSize</key>
 				<integer>30302</integer>
 				<key>md5</key>
@@ -2479,8 +2479,8 @@
 				<string>transistor.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8gDAAAAAAQQMAAAAJvnxg+gy+UA3vh0facN//Hr
-				9GZJiI0I/RnVQjK4c9f80AIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8gDAAAAAAQQMAAAAO2ph56w7qCngzl4AhIi4plt
+				Rak0Bc+eAYuIwnlhFGLp0AIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2491,11 +2491,11 @@
 				AAAAtAAAAAgAAAAEAwAAOwYCAAAAAAAIAAAABAMAAPTK
 				BQAAAAAACAAAAAQDAADBzbMAAAAAAAgAAAAEAwAACc6z
 				AAAAAAAIAAAABAMAADvOswAAAAAACAAAAAQDAADpz7MA
-				AAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAJ/s4QEA
-				AAAACAAAAAQDAABO7eEBAAAAAAgAAAAEAwAA7LjtAQAA
-				AAAIAAAABAMAAEByAQIAAAAALAAAAAEGAAAAAQAAEAEA
+				AAAAAAgAAAAEAwAAuLrhAQAAAAAIAAAABAMAAAzDOQIA
+				AAAACAAAAAQDAACL3jkCAAAAAAgAAAAEAwAA/d45AgAA
+				AAAIAAAABAMAABffOQIAAAAALAAAAAEGAAAAAQAAEAEA
 				ACABAAAwAQAAQAEAAFABAABgAQAAcAEAAIABAACQAQAA
-				oAEAAAgAAAAABAAAQbjhNooAAAAYAAAAAQIAAAEAAAAA
+				oAEAAAgAAAAABAAAQblH0r8AAAAYAAAAAQIAAAEAAAAA
 				AAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAACQAAAAAA
 				AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
 				RAgAAAAEAwAAAHCiR3QAAAAIAAAAAAQAAEG2MU2SAAAA
@@ -2523,7 +2523,7 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-03-13T00:02:04Z</date>
+				<date>2014-06-10T23:56:47Z</date>
 				<key>fileSize</key>
 				<integer>15933</integer>
 				<key>md5</key>
@@ -2536,8 +2536,8 @@
 				<string>330R.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9va8ADAAAAAAQQMAAAAGaOJFTlWoRYbEMxxT5WZX4G
-				jJ7M+7N/+DK8kdpanvAYyAIAAAUAAAABAQAAVXNlcnMA
+				Ym9va8ADAAAAAAQQMAAAAGrOSBvroV5kaMWYDtZTPb81
+				5ul+EE3rxkx/Gjd0E7MQyAIAAAUAAAABAQAAVXNlcnMA
 				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
 				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
 				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
@@ -2548,11 +2548,11 @@
 				AAAABAMAADsGAgAAAAAACAAAAAQDAAD0ygUAAAAAAAgA
 				AAAEAwAAwc2zAAAAAAAIAAAABAMAAAnOswAAAAAACAAA
 				AAQDAAA7zrMAAAAAAAgAAAAEAwAA6c+zAAAAAAAIAAAA
-				BAMAALi64QEAAAAACAAAAAQDAACf7OEBAAAAAAgAAAAE
-				AwAATu3hAQAAAAAIAAAABAMAAOy47QEAAAAACAAAAAQD
-				AADv//ABAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
+				BAMAALi64QEAAAAACAAAAAQDAAAMwzkCAAAAAAgAAAAE
+				AwAAi945AgAAAAAIAAAABAMAAP3eOQIAAAAACAAAAAQD
+				AAAA3zkCAAAAACwAAAABBgAA+AAAAAgBAAAYAQAAKAEA
 				ADgBAABIAQAAWAEAAGgBAAB4AQAAiAEAAJgBAAAIAAAA
-				AAQAAEG40Sz8AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAQAAEG5R9K/AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
 				AAAAAAAAAAAAAAAIAAAABAMAAAkAAAAAAAAABAAAAAMD
 				AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
 				AABwokd0AAAACAAAAAAEAABBtjFNkgAAACQAAAABAQAA
@@ -3483,21 +3483,21 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>motor</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3609,21 +3609,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>motor</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>290px</string>
 						</dict>
 					</array>
 					<key>214</key>
@@ -3642,9 +3642,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3774,9 +3774,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>218</key>
@@ -3795,9 +3795,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3927,9 +3927,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -3948,9 +3948,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4080,30 +4080,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>221</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>wires</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4209,21 +4209,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>wires</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>223</key>
@@ -4242,9 +4242,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4374,30 +4374,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>227</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>transistor</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>275px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>10px</string>
+							<string>290px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4503,9 +4503,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>10px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>229</key>
+					<array>
+						<dict>
+							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>transistor</string>
+							<string>330R</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4518,27 +4539,6 @@
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>290px</string>
-						</dict>
-					</array>
-					<key>229</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4644,21 +4644,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>330R</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>275px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>290px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>49</key>
@@ -4701,9 +4701,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4815,9 +4815,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -9161,8 +9161,6 @@
 			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -10520,8 +10518,6 @@
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -11815,8 +11811,6 @@
 			<array/>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -14791,6 +14785,8 @@ document.onkeydown = key;
 	<key>useInitialScale</key>
 	<integer>0</integer>
 	<key>useTouchEvents</key>
+	<true/>
+	<key>videoExportLoopPlayback</key>
 	<true/>
 	<key>viewportOption</key>
 	<integer>0</integer>
