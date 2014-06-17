@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>282</string>
+	<string>1</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -97,13 +97,13 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-06-17T01:22:22Z</date>
+	<date>2014-06-17T02:14:14Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>253</real>
 		<key>mainWindowFrame</key>
-		<string>3 47 1433 831 0 0 1440 878 </string>
+		<string>483 587 1433 831 0 0 2560 1418 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -5510,7 +5510,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1133, 889}</string>
+			<string>{1129, 944}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -5680,9 +5680,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5794,9 +5794,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>251</key>
@@ -6037,7 +6037,7 @@
 			<key>selectedObjects</key>
 			<array/>
 			<key>splitHeight</key>
-			<real>683</real>
+			<real>724</real>
 		</dict>
 		<dict>
 			<key>animationController</key>
@@ -10060,9 +10060,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#434343</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10174,9 +10174,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#434343</string>
 						</dict>
 					</array>
 					<key>277</key>
@@ -10846,6 +10846,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>98px</string>
@@ -11177,8 +11183,6 @@
 			</array>
 			<key>splitHeight</key>
 			<real>724</real>
-			<key>userGuides</key>
-			<array/>
 		</dict>
 		<dict>
 			<key>animationController</key>
