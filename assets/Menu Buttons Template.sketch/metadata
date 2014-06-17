@@ -85,6 +85,7 @@
 		<string>UbuntuMono-Regular</string>
 		<string>UbuntuMono-Regular</string>
 		<string>UbuntuMono-Regular</string>
+		<string>UbuntuMono-Regular</string>
 		<string>UbuntuMono-Bold</string>
 		<string>UbuntuMono-Regular</string>
 		<string>UbuntuMono-Regular</string>
@@ -101,7 +102,7 @@
 		<string>UbuntuMono-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>820624</integer>
+	<integer>828295</integer>
 	<key>version</key>
 	<integer>18</integer>
 </dict>
