@@ -97,7 +97,7 @@
 
 	</string>
 	<key>lastCheckDate</key>
-	<date>2014-06-17T02:20:47Z</date>
+	<date>2014-06-17T02:26:34Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -150,7 +150,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>411</integer>
+	<integer>430</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -777,6 +777,7 @@
 				<key>resources</key>
 				<array>
 					<string>step-8.png</string>
+					<string>step-8@2x.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -789,6 +790,7 @@
 				<key>resources</key>
 				<array>
 					<string>step-9.png</string>
+					<string>step-9@2x.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -801,6 +803,7 @@
 				<key>resources</key>
 				<array>
 					<string>step-11.png</string>
+					<string>step-11@2x.png</string>
 				</array>
 			</dict>
 		</array>
@@ -4414,6 +4417,174 @@
 				AAAAEiAAABgCAAAAAAAAEyAAACgCAAAAAAAAICAAAGQC
 				AAAAAAAAMCAAAJACAAAAAAAAAcAAAOgBAAAAAAAAEcAA
 				ABQAAAAAAAAAEsAAAPgBAAAAAAAAENAAAJgCAAAAAAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-17T02:25:29Z</date>
+				<key>fileSize</key>
+				<integer>10550</integer>
+				<key>md5</key>
+				<string>6E5A69042A3B70459C4BE188F7E6BB9B</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/step-11@2x.png</string>
+				<key>resourceName</key>
+				<string>step-11@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va6ADAAAAAAQQMAAAAG2kEkxtlvT6fftC/RAZ4aNn
+				If0y5ltK/t7IICGVgvZ+qAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAAOAAAAAQEAAHN0ZXAtMTFAMngu
+				cG5nAAAoAAAAAQYAAAQAAAAUAAAAJAAAADQAAABEAAAA
+				VAAAAGQAAAB4AAAAlAAAAKQAAAAIAAAABAMAADsGAgAA
+				AAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAA
+				AAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMAAAAA
+				AAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEAAAAA
+				CAAAAAQDAAAMwzkCAAAAAAgAAAAEAwAAi945AgAAAAAI
+				AAAABAMAALfwPAIAAAAAKAAAAAEGAADsAAAA/AAAAAwB
+				AAAcAQAALAEAADwBAABMAQAAXAEAAGwBAAB8AQAACAAA
+				AAAEAABBuU/emQAAABgAAAABAgAAAQAAAAAAAAAPAAAA
+				AAAAAAAAAAAAAAAACAAAAAQDAAAIAAAAAAAAAAQAAAAD
+				AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+				AAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAAAQEA
+				AEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVDNDA1
+				Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAA
+				AAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMAAAAJ
+				ACjAAAAA/v///wEAAAAAAAAADwAAAAQQAAC8AAAAAAAA
+				AAUQAACMAQAAAAAAABAQAADMAQAAAAAAAEAQAAC8AQAA
+				AAAAAAIgAACIAgAAAAAAABAgAAAIAgAAAAAAABEgAAA8
+				AgAAAAAAABIgAAAcAgAAAAAAABMgAAAsAgAAAAAAACAg
+				AABoAgAAAAAAADAgAACUAgAAAAAAAAHAAADsAQAAAAAA
+				ABHAAAAUAAAAAAAAABLAAAD8AQAAAAAAABDQAACcAgAA
+				AAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-17T02:19:53Z</date>
+				<key>fileSize</key>
+				<integer>12868</integer>
+				<key>md5</key>
+				<string>D7EED329AF8959EB196F39EDE544B002</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/step-9@2x.png</string>
+				<key>resourceName</key>
+				<string>step-9@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va6ADAAAAAAQQMAAAALU1PMrEVxUB19+4ulGd14re
+				lSQnKz+FU6hEQmHbgsimqAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAANAAAAAQEAAHN0ZXAtOUAyeC5w
+				bmcAAAAoAAAAAQYAAAQAAAAUAAAAJAAAADQAAABEAAAA
+				VAAAAGQAAAB4AAAAlAAAAKQAAAAIAAAABAMAADsGAgAA
+				AAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAA
+				AAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMAAAAA
+				AAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEAAAAA
+				CAAAAAQDAAAMwzkCAAAAAAgAAAAEAwAAi945AgAAAAAI
+				AAAABAMAAOHtPAIAAAAAKAAAAAEGAADsAAAA/AAAAAwB
+				AAAcAQAALAEAADwBAABMAQAAXAEAAGwBAAB8AQAACAAA
+				AAAEAABBuU/dSQAAABgAAAABAgAAAQAAAAAAAAAPAAAA
+				AAAAAAAAAAAAAAAACAAAAAQDAAAIAAAAAAAAAAQAAAAD
+				AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+				AAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAAAQEA
+				AEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVDNDA1
+				Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAA
+				AAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMAAAAJ
+				ACjAAAAA/v///wEAAAAAAAAADwAAAAQQAAC8AAAAAAAA
+				AAUQAACMAQAAAAAAABAQAADMAQAAAAAAAEAQAAC8AQAA
+				AAAAAAIgAACIAgAAAAAAABAgAAAIAgAAAAAAABEgAAA8
+				AgAAAAAAABIgAAAcAgAAAAAAABMgAAAsAgAAAAAAACAg
+				AABoAgAAAAAAADAgAACUAgAAAAAAAAHAAADsAQAAAAAA
+				ABHAAAAUAAAAAAAAABLAAAD8AQAAAAAAABDQAACcAgAA
+				AAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2014-06-10T23:56:47Z</date>
+				<key>fileSize</key>
+				<integer>13678</integer>
+				<key>md5</key>
+				<string>26BACE615B2D12785D64BE7BF9DB7D98</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/ninjusty/Dropbox/WARES/Webware/Projects/Geek Ammo/interactive-guides/assets/step-8@2x.png</string>
+				<key>resourceName</key>
+				<string>step-8@2x.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va6ADAAAAAAQQMAAAAC/iqWE93wHeLBQ7KoUFLLeW
+				1PjaI9AbssHHcXwuFEhfqAIAAAUAAAABAQAAVXNlcnMA
+				AAAIAAAAAQEAAG5pbmp1c3R5BwAAAAEBAABEcm9wYm94
+				AAUAAAABAQAAV0FSRVMAAAAHAAAAAQEAAFdlYndhcmUA
+				CAAAAAEBAABQcm9qZWN0cwkAAAABAQAAR2VlayBBbW1v
+				AAAAEgAAAAEBAABpbnRlcmFjdGl2ZS1ndWlkZXMAAAYA
+				AAABAQAAYXNzZXRzAAANAAAAAQEAAHN0ZXAtOEAyeC5w
+				bmcAAAAoAAAAAQYAAAQAAAAUAAAAJAAAADQAAABEAAAA
+				VAAAAGQAAAB4AAAAlAAAAKQAAAAIAAAABAMAADsGAgAA
+				AAAACAAAAAQDAAD0ygUAAAAAAAgAAAAEAwAAwc2zAAAA
+				AAAIAAAABAMAAAnOswAAAAAACAAAAAQDAAA7zrMAAAAA
+				AAgAAAAEAwAA6c+zAAAAAAAIAAAABAMAALi64QEAAAAA
+				CAAAAAQDAAAMwzkCAAAAAAgAAAAEAwAAi945AgAAAAAI
+				AAAABAMAAFLfOQIAAAAAKAAAAAEGAADsAAAA/AAAAAwB
+				AAAcAQAALAEAADwBAABMAQAAXAEAAGwBAAB8AQAACAAA
+				AAAEAABBuUfSvwAAABgAAAABAgAAAQAAAAAAAAAPAAAA
+				AAAAAAAAAAAAAAAACAAAAAQDAAAIAAAAAAAAAAQAAAAD
+				AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+				AAAAcKJHdAAAAAgAAAAABAAAQbYxTZIAAAAkAAAAAQEA
+				AEI4MDc2NEVFLTdBNzctMzVEMy04REZCLUNCREVDNDA1
+				Qzk3ORgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAA
+				AAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMAAAAJ
+				ACjAAAAA/v///wEAAAAAAAAADwAAAAQQAAC8AAAAAAAA
+				AAUQAACMAQAAAAAAABAQAADMAQAAAAAAAEAQAAC8AQAA
+				AAAAAAIgAACIAgAAAAAAABAgAAAIAgAAAAAAABEgAAA8
+				AgAAAAAAABIgAAAcAgAAAAAAABMgAAAsAgAAAAAAACAg
+				AABoAgAAAAAAADAgAACUAgAAAAAAAAHAAADsAQAAAAAA
+				ABHAAAAUAAAAAAAAABLAAAD8AQAAAAAAABDQAACcAgAA
+				AAAAAA==
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
